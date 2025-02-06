@@ -37,3 +37,23 @@ Los datos provienen de:
 ```bash
 git clone https://github.com/tu-usuario/pokemon-popularity-analysis.git
 cd pokemon-popularity-analysis
+```
+
+## 📄 Estructura del Proyecto
+📂 pokemon_popularity_analysis/
+
+┣ 📂 data/                <- Archivos CSV con los datos.
+
+┣ 📂 notebooks/           <- Jupyter notebooks con análisis y modelos.
+
+┣ 📂 src/                 <- Scripts Python para procesamiento y predicción.
+
+┣ 📄 requirements.txt     <- Librerías necesarias para ejecutar el código.
+
+┣ 📄 README.md            <- Explicación del proyecto.
+
+## 📩 Contacto
+
+👨‍💻 Desarrollado por: Daniel Sánchez McCambridge
+
+📧 Email: danielsm.dev@gmail.com
