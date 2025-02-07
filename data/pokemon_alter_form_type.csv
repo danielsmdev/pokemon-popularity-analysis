@@ -1,0 +1,169 @@
+ndex,name,form,pokemon_type1,pokemon_type1
+3,Venusaur,Mega Venusaur,grass ,poison
+6,Charizard,Mega Charizard X,fire,dragon
+6,Charizard,Mega Charizard Y,fire ,flying
+9,Blastoise,Mega Blastoise,water,
+15,Beedrill,Mega Beedrill,bug,poison
+18,Pidgeot,Mega Pidgeot,normal,flying
+25,Pikachu,Partner Pikachu,electric ,
+65,Alakazam,Mega Alakazam,psychic ,
+80,Slowbro,Mega Slowbro,water,psychic 
+94,Gengar,Mega Gengar,ghost,poison 
+115,Kangaskhan,Mega Kangaskhan,normal,
+127,Pinsir,Mega Pinsir,bug,
+128,Tauros,Aqua Breed,fighting,water
+128,Tauros,Blaze Breed,fighting,fire
+128,Tauros,Combat Breed,fighting,
+130,Gyarados,Mega Gyarados,water,dark
+133,Eevee,Partner Eevee,normal,
+142,Aerodactyl,Mega Aerodactyl,rock,flying
+150,Mewtwo,Mega Mewtwo X,psychic ,fighting
+150,Mewtwo,Mega Mewtwo Y,psychic ,
+181,Ampharos,Mega Ampharos,electric ,dragon
+194,Wooper,Paldean Wooper,poison,ground
+208,Steelix,Mega Steelix,steel,ground
+212,Scizor,Mega Scizor,bug,steel
+214,Heracross,Mega Heracross,bug,fighting 
+229,Houndoom,Mega Houndoom,dark,fire
+248,Tyranitar,Mega Tyranitar,rock,dark
+254,Sceptile,Mega Sceptile,grass ,dragon
+257,Blaziken,Mega Blaziken,fire,fighting 
+260,Swampert,Mega Swampert,water,ground
+282,Gardevoir,Mega Gardevoir,psychic ,fairy
+302,Sableye,Mega Sableye,dark,ghost
+303,Mawile,Mega Mawile,steel,fairy
+306,Aggron,Mega Aggron,steel,rock
+308,Medicham,Mega Medicham,fighting,psychic 
+310,Manectric,Mega Manectric,electric ,
+319,Sharpedo,Mega Sharpedo,water,dark
+323,Camerupt,Mega Camerupt,fire,ground
+334,Altaria,Mega Altaria,dragon,flying
+351,Castform,Rainy Form,water,
+351,Castform,Snowy Form,ice,
+351,Castform,Sunny Form,fire,
+354,Banette,Mega Banette,ghost,
+359,Absol,Mega Absol,dark,
+362,Glalie,Mega Glalie,ice,
+373,Salamence,Mega Salamence,dragon,flying
+376,Metagross,Mega Metagross,steel,psychic 
+380,Latias,Mega Latias,dragon,psychic 
+381,Latios,Mega Latios,dragon,psychic 
+382,Kyogre,Primal Kyogre,water,
+383,Groudon,Primal Groudon,ground,fire
+384,Rayquaza,Mega Rayquaza,dragon,flying
+386,Deoxys,Attack Forme,psychic ,
+386,Deoxys,Defense Forme,psychic ,
+386,Deoxys,Normal Forme,psychic ,
+386,Deoxys,Speed Forme,psychic ,
+412,Burmy,Plant Cloak,bug,
+412,Burmy,Sandy Cloak,bug,
+412,Burmy,Trash Cloak,bug,
+413,Wormadam,Plant Cloak,bug,grass
+413,Wormadam,Sandy Cloak,bug,ground
+413,Wormadam,Trash Cloak,bug,steel
+428,Lopunny,Mega Lopunny,normal,
+445,Garchomp,Mega Garchomp,dragon,ground
+448,Lucario,Mega Lucario,fighting,steel
+460,Abomasnow,Mega Abomasnow,grass ,ice
+475,Gallade,Mega Gallade,psychic ,fighting
+479,Rotom,Fan Rotom,electric ,flying
+479,Rotom,Frost Rotom,electric ,ice
+479,Rotom,Heat Rotom,electric ,fire
+479,Rotom,Mow Rotom,electric ,grass
+479,Rotom,Wash Rotom,electric ,water
+483,Dialga,Origin Forme,steel,dragon
+484,Palkia,Origin Forme,water,dragon
+487,Giratina,Altered Forme,ghost,dragon
+487,Giratina,Origin Forme,ghost,dragon
+492,Shaymin,Land Forme,grass ,
+492,Shaymin,Sky Forme,grass ,flying
+531,Audino,Mega Audino,normal,fairy
+550,Basculin,Blue-Striped Form,water,
+550,Basculin,Red-Striped Form,water,
+550,Basculin,White-Striped Form,water,
+555,Darmanitan,Standard Mode,fire,
+555,Darmanitan,Zen Mode,fire,psychic 
+641,Tornadus,Incarnate Forme,flying,
+641,Tornadus,Therian Forme,flyling,
+642,Thundurus,Incarnate Forme,electric ,flying
+642,Thundurus,Therian Forme,electric ,flying
+645,Landorus,Incarnate Forme,ground,flying
+645,Landorus,Therian Forme,ground,flying
+646,Kyurem,Black Kyurem,dragon,ice
+646,Kyurem,White Kyurem,dragon,ice
+647,Keldeo,Ordinary Form,water,fighting
+647,Keldeo,Resolute Form,water,fighting
+648,Meloetta,Aria Forme,normal,psychic 
+648,Meloetta,Pirouette Forme,normal,fighting
+658,Greninja,Ash-Greninja,water,dark
+678,Meowstic,Female,psychic ,
+678,Meowstic,Male,psychic ,
+681,Aegislash,Blade Forme,steel,ghost
+681,Aegislash,Shield Forme,steel,ghost
+710,Pumpkaboo,Average Size,ghost,grass
+710,Pumpkaboo,Large Size,ghost,grass
+710,Pumpkaboo,Small Size,ghost,grass
+710,Pumpkaboo,Super Size,ghost,grass
+711,Gourgeist,Average Size,ghost,grass
+711,Gourgeist,Large Size,ghost,grass
+711,Gourgeist,Small Size,ghost,grass
+711,Gourgeist,Super Size,ghost,grass
+718,Zygarde,10% Forme,dragon,ground
+718,Zygarde,50% Forme,dragon,ground
+718,Zygarde,Complete Forme,dragon,ground
+719,Diancie,Mega Diancie,rock,fairy
+720,Hoopa,Hoopa Confined,psychic ,ghost
+720,Hoopa,Hoopa Unbound,psychic ,dark
+741,Oricorio,Baile Style,fire,flying
+741,Oricorio,Pa'u Style,psychic ,flying
+741,Oricorio,Pom-Pom Style,electric ,flying
+741,Oricorio,Sensu Style,ghost,flying
+744,Rockruff,Own Tempo Rockruff,rock,
+745,Lycanroc,Dusk Form,rock,
+745,Lycanroc,Midday Form,rock,
+745,Lycanroc,Midnight Form,rock,
+746,Wishiwashi,School Form,water,
+746,Wishiwashi,Solo Form,water,
+774,Minior,Core Form,rock,flying
+774,Minior,Meteor Form,rock,flying
+800,Necrozma,Dawn Wings Necrozma,psychic ,ghost
+800,Necrozma,Dusk Mane Necrozma,psychic ,steel
+800,Necrozma,Ultra Necrozma,psychic ,dragon
+849,Toxtricity,Amped Form,electric ,poison
+849,Toxtricity,Low Key Form,electric ,poison
+875,Eiscue,Ice Face,ice,
+875,Eiscue,Noice Face,ice,
+876,Indeedee,Female,psychic ,normal
+876,Indeedee,Male,psychic ,normal
+877,Morpeko,Full Belly Mode,electric ,dark
+877,Morpeko,Hangry Mode,electric ,dark
+888,Zacian,Crowned Sword,fairy,steel
+888,Zacian,Hero of Many Battles,fairy,
+889,Zamazenta,Crowned Shield,fighting,steel
+889,Zamazenta,Hero of Many Battles,fighting,
+890,Eternatus,Eternamax,poison,dragon
+892,Urshifu,Rapid Strike Style,fighting,water
+892,Urshifu,Single Strike Style,fighting,dark
+898,Calyrex,Ice Rider,psychic ,ice
+898,Calyrex,Shadow Rider,psychic ,ghost
+902,Basculegion,Female,water,ghost
+902,Basculegion,Male,water,ghost
+905,Enamorus,Incarnate Forme,fairy,flying
+905,Enamorus,Therian Forme,fairy,flying
+916,Oinkologne,Female,normal,
+916,Oinkologne,Male,normal,
+925,Maushold,Family of Four,normal,
+925,Maushold,Family of Three,normal,
+931,Squawkabilly,Blue Plumage,normal,flying
+931,Squawkabilly,Green Plumage,normal,flying
+931,Squawkabilly,White Plumage,normal,flying
+931,Squawkabilly,Yellow Plumage,normal,flying
+964,Palafin,Hero Form,water,
+964,Palafin,Zero Form,water,
+978,Tatsugiri,Curly Form,dragon,water
+978,Tatsugiri,Droopy Form,dragon,water
+978,Tatsugiri,Stretchy Form,dragon,water
+982,Dudunsparce,Three-Segment Form,normal,
+982,Dudunsparce,Two-Segment Form,normal,
+999,Gimmighoul,Chest Form,ghost,
+999,Gimmighoul,Roaming Form,ghost,

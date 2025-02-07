@@ -1,0 +1,73 @@
+index,name,type,pokemon_species,pokemon_abilities,pokemon_weight,pokemon_height,pokemon_male,pokemon_female,pokemon_egg,kanto_number,joto_number,joto_h_number,hoenn_number,hoenn_oa_number,sinnoh_number,sinnoh_p_number,unova_number,unova_bw2_number,kalos_ce_number,kalos_co_number,kalos_m_number,alola_sm_number,alola_u_number,galar_number,galar_ia_number,galar_ct_number,paldea_number
+721,Volcanion,"Fire,Water",Steam Pokémon,Water Absorb,195.0 kg,1.7 m,N/A,N/A,Undiscovered,N/A,,,,,N/A,,N/A,,153,,,,,,,,N/A
+720,Hoopa,"Psychic,Ghost",Mischief Pokémon,Magician,9.0 kg,0.5 m,N/A,N/A,N/A,N/A,,,,,N/A,,N/A,,152,,,,,,,,N/A
+719,Diancie,"Rock,Fairy",Jewel Pokémon,Clear Body,8.8 kg,0.7 m,N/A,N/A,N/A,N/A,,,,,N/A,,N/A,,151,,,,,,,,N/A
+718,Zygarde,"Dragon,Ground",Order Pokémon,"Aura Break,Power Construct",305.0 kg,5.0 m,N/A,N/A,N/A,N/A,,,,,N/A,,N/A,,,,150,205,263,,,,N/A
+717,Yveltal,"Dark,Flying",Destruction Pokémon,Dark Aura,203.0 kg,5.8 m,N/A,N/A,N/A,N/A,,,,,N/A,,N/A,,,,149,,,,,,N/A
+716,Xerneas,"Fairy,Psychic",Life Pokémon,Fairy Aura,215.0 kg,3.0 m,N/A,N/A,N/A,N/A,,,,,N/A,,N/A,,,,148,,,,,,N/A
+715,Noivern,"Flying,Dragon",Sound Wave Pokémon,"Frisk,Infiltrator",85.0 kg,1.5 m,50,50,"Flying,Dragon",N/A,,,,,N/A,,N/A,,,,114,,,,,,N/A
+714,Noibat,"Flying,Dragon",Sound Wave Pokémon,"Frisk,Infiltrator",8.0 kg,0.5 m,50,50,"Flying,Dragon",N/A,,,,,N/A,,N/A,,,,113,,,,,,N/A
+713,Avalugg,"Ice,Ice",Iceberg Pokemon,"Own Tempo,Ice Body",505.0 kg,2.0 m,50,50,"Monster,Mineral",N/A,,,,,N/A,,N/A,,,,80,,,,,,N/A
+712,Bergmite,"Ice,Normal",Ice Chunk Pokémon,"Own Tempo,Ice Body",99.5 kg,1.0 m,50,50,"Monster,Mineral",N/A,,,,,N/A,,N/A,,,,79,,,,,,N/A
+711,Gourgeist,"Ghost,Grass",Pumpkin Pokémon,"Pickup,Frisk",,,50,50,Amorphous,N/A,,,,,N/A,,N/A,,,,64,,,,,,N/A
+710,Pumpkaboo,"Ghost,Grass",Pumpkin Pokémon,"Pickup,Frisk",,,50,50,Amorphous,N/A,,,,,N/A,,N/A,,,,63,,,,,,N/A
+709,Trevenant,"Ghost,Grass",Elder Tree Pokémon,"Natural Cure,Frisk",71.0 kg,1.5 m,50,50,"Grass,Amorphous",N/A,,,,,N/A,,N/A,,,,62,197,251,,,,N/A
+708,Phantump,"Ghost,Grass",Stump Pokemon,"Natural Cure,Frisk",7.0 kg,0.4 m,50,50,"Grass,Amorphous",N/A,,,,,N/A,,N/A,,,,61,196,250,,,,N/A
+707,Klefki,"Steel,Fairy",Key Ring Pokémon,Prankster,3.0 kg,0.2 m,50,50,Mineral,N/A,,,,,N/A,,N/A,,,,50,241,314,,28,,N/A
+706,Goodra,"Dragon,Steel",Dragon Pokemon,"Sap Sipper,Hydration",150.5 kg,2.0 m,50,50,"Dragon,Dragon",N/A,,,,,N/A,,N/A,,,,21,180,219,391,62,,N/A
+705,Sliggoo,"Dragon,Steel",Soft Tissue Pokémon,"Sap Sipper,Hydration",17.5 kg,0.8 m,50,50,"Dragon,Dragon",N/A,,,,,N/A,,N/A,,,,20,179,218,390,61,,N/A
+704,Goomy,"Dragon,Normal",Soft Tissue Pokemon,"Sap Sipper,Hydration",2.8 kg,0.3 m,50,50,Dragon,N/A,,,,,N/A,,N/A,,,,19,178,217,389,60,,N/A
+703,Carbink,"Rock,Fairy",Jewel Pokémon,Clear Body,5.7 kg,0.3 m,N/A,N/A,"Fairy,Mineral",N/A,,,,,N/A,,N/A,,,124,,101,123,,,,N/A
+702,Dedenne,"Electric,Fairy",Antenna Pokémon,"Pickup,Cheek Pouch",2.2 kg,0.2 m,50,50,"Field,Fairy",N/A,,,,,N/A,,N/A,,,110,,,,,103,,N/A
+701,Hawlucha,"Fighting,Flying",Wrestling Pokémon,"Limber,Unburden",21.5 kg,0.8 m,50,50,"Human-Like,Flying",N/A,,,,,N/A,,N/A,,,89,,,,,,,N/A
+700,Sylveon,"Fairy,Fairy",Intertwining Pokémon,Cute Charm,23.5 kg,1.0 m,87.5,12.5% ♀,Field,N/A,,,,,N/A,,N/A,,,85,,131,161,,,,N/A
+699,Aurorus,"Rock,Ice",Tundra Pokémon,Refrigerate,225.0 kg,2.7 m,87.5,12.5,Monster,N/A,,,,,N/A,,N/A,,,67,,,,,,,N/A
+698,Amaura,"Rock,Ice",Tundra Pokémon,Refrigerate,25.2 kg,1.3 m,87.5,12.5,Monster,N/A,,,,,N/A,,N/A,,,66,,,,,,,N/A
+697,Tyrantrum,"Rock,Dragon",Despot Pokémon,Strong Jaw,270.0 kg,2.5 m,87.5,12.5,"Monster,Dragon",N/A,,,,,N/A,,N/A,,,65,,,,,,,N/A
+696,Tyrunt,"Rock,Dragon",Royal Heir Pokémon,Strong Jaw,26.0 kg,0.8 m,87.5,12.5,"Monster,Dragon",N/A,,,,,N/A,,N/A,,,64,,,,,,,N/A
+695,Heliolisk,"Electric,Normal",Generator Pokémon,"Sand Veil,Dry Skin",21.0 kg,1.0 m,50,50,"Monster,Dragon",N/A,,,,,N/A,,N/A,,,47,,,,,,,N/A
+694,Helioptile,"Electric,Normal",Generator Pokémon,"Dry Skin,Sand Veil",6.0 kg,0.5 m,50,50,"Monster,Dragon",N/A,,,,,N/A,,N/A,,,46,,,,,,,N/A
+693,Clawitzer,"Water,Fighting",Howitzer Pokémon,Mega Launcher,35.3 kg,1.3 m,50,50,"Water 1,Water 3",N/A,,,,,N/A,,N/A,,,33,,,,,197,,N/A
+692,Clauncher,"Water,Normal",Water Gun Pokémon,Mega Launcher,8.3 kg,0.5 m,50,50,"Water 1,Water 3",N/A,,,,,N/A,,N/A,,,32,,,,,196,,N/A
+691,Dragalge,"Poison,Dragon",Mock Kelp Pokémon,"Poison Point,Poison Touch",81.5 kg,1.8 m,50,50,"Water 1,Dragon",N/A,,,,,N/A,,N/A,,,31,,,,,195,,N/A
+690,Skrelp,"Poison,Water",Mock Kelp Pokémon,"Poison Point,Poison Touch",7.3 kg,0.5 m,50,50,"Water 1,Dragon",N/A,,,,,N/A,,N/A,,,30,,,,,194,,N/A
+689,Barbaracle,"Rock,Water",Collective Pokémon,"Tough Claws,Sniper",96.0 kg,1.3 m,50,50,Water 3,N/A,,,,,N/A,,N/A,,,21,,,,,,,N/A
+688,Binacle,"Rock,Water",Two-Handed Pokémon,"Tough Claws,Sniper",31.0 kg,0.5 m,50,50,Water 3,N/A,,,,,N/A,,N/A,,,21,,,,,,,N/A
+687,Malamar,"Dark,Psychic",Overturning Pokémon,"Contrary,Suction Cups",47.0 kg,1.5 m,50,50,"Water 1,Water 2",N/A,,,,,N/A,,N/A,,,11,,,,291,109,,N/A
+686,Inkay,"Dark,Psychic",Revolving Pokémon,"Contrary,Suction Cups",3.5 kg,0.4 m,50,50,"Water 1,Water 2",N/A,,,,,N/A,,N/A,,,10,,,,290,108,,N/A
+685,Slurpuff,"Fairy,Normal",Meringue Pokémon,Sweet Veil,5.0 kg,0.8 m,50,50,Fairy,N/A,,,,,N/A,,N/A,,132,,,,,,,,N/A
+684,Swirlix,"Fairy,Normal",Cotton Candy Pokémon,Sweet Veil,3.5 kg,0.4 m,50,50,Fairy,N/A,,,,,N/A,,N/A,,131,,,,,,,,N/A
+683,Aromatisse,"Fairy,Fairy",Fragrance Pokémon,Healer,15.5 kg,0.8 m,50,50,Fairy,N/A,,,,,N/A,,N/A,,130,,,,,,,,N/A
+682,Spritzee,"Fairy,Normal",Perfume Pokémon,Healer,0.5 kg,0.2 m,50,50,Fairy,N/A,,,,,N/A,,N/A,,129,,,,,,,,N/A
+681,Aegislash,"Steel,Ghost",Royal Sword Pokémon,Stance Change,53.0 kg,1.7 m,50,50,"Mineral,Mineral",N/A,,,,,N/A,,N/A,,119,,,,,,,,N/A
+680,Doublade,"Steel,Ghost",Sword Pokémon,No Guard,4.5 kg,0.6 m,50,50,Mineral,N/A,,,,,N/A,,N/A,,118,,,,,,,,N/A
+679,Honedge,"Steel,Ghost",Sword Pokémon,No Guard,2.0 kg,0.8 m,50,50,Mineral,N/A,,,,,N/A,,N/A,,117,,,,,,,,N/A
+678,Meowstic,"Psychic,Fighting",Constraint Pokémon,"Keen Eye,Infiltrator",8.5 kg,0.6 m,100,0,"Field,Field",N/A,,,,,N/A,,N/A,,115,,,,,,,,N/A
+677,Espurr,"Psychic,Normal",Restraint Pokémon,"Keen Eye,Infiltrator",3.5 kg,0.3 m,50,50,Field,N/A,,,,,N/A,,N/A,,114,,,,,,,,N/A
+676,Furfrou,"Normal,Normal",Poodle Pokemon,Fur Coat,28.0 kg,1.2 m,50,50,Field,N/A,,,,,N/A,,N/A,,93,,,,,,,,N/A
+675,Pangoro,"Fighting,Dark",Daunting Pokémon,"Iron Fist,Mold Breaker",136.0 kg,2.1 m,50,50,"Field,Human-Like",N/A,,,,,N/A,,N/A,,92,,,221,285,,,,N/A
+674,Pancham,"Fighting,Normal",Playful Pokémon,"Iron Fist,Mold Breaker",8.0 kg,0.6 m,50,50,"Field,Human-Like",N/A,,,,,N/A,,N/A,,91,,,220,284,,,,N/A
+673,Gogoat,"Grass,Flying",Mount Pokémon,Sap Sipper,91.0 kg,1.7 m,50,50,Field,N/A,,,,,N/A,,N/A,,90,,,,,,,,N/A
+672,Skiddo,"Grass,Normal",Mount Pokémon,Sap Sipper,31.0 kg,0.9 m,50,50,Field,N/A,,,,,N/A,,N/A,,89,,,,,,,,N/A
+671,Florges,"Fairy,Fairy",Garden Pokémon,Flower Veil,10.0 kg,1.1 m,0,100,Fairy,N/A,,,,,N/A,,N/A,,70,,,,,,,,N/A
+670,Floette,"Fairy,Normal",Single Bloom Pokémon,Flower Veil,0.9 kg,0.2 m,0,100,Fairy,N/A,,,,,N/A,,N/A,,69,,,,,,,,N/A
+669,Flabébé,"Fairy,Normal",Single Bloom Pokémon,Flower Veil,0.1 kg,0.1 m,0,100,Fairy,N/A,,,,,N/A,,N/A,,68,,,,,,,,N/A
+668,Pyroar,"Fire,Normal",Royal Pokémon,"Rivalry,Unnerve",81.5 kg,1.5 m,12.5,87.5% ♀,Field,N/A,,,,,N/A,,N/A,,58,,,,,,,,N/A
+667,Litleo,"Fire,Normal",Lion Cub Pokémon,"Rivalry,Unnerve",13.5 kg,0.6 m,12.5,87.5% ♀,Field,N/A,,,,,N/A,,N/A,,57,,,,,,,,N/A
+666,Vivillon,"Bug,Flying",Scale Pokémon,"Shield Dust,Compound Eyes",17.0 kg,1.2 m,50,50,Bug,N/A,,,,,N/A,,N/A,,22,,,,,,,,N/A
+665,Spewpa,"Bug,Normal",Scatterdust Pokémon,Shed Skin,8.4 kg,0.3 m,50,50,Bug,N/A,,,,,N/A,,N/A,,021 ,,,,,,,,N/A
+664,Scatterbug,"Bug,Normal",Scatterdust Pokémon,"Compound Eyes,Shield Dust",2.5 kg,0.3 m,50,50,Bug,N/A,,,,,N/A,,N/A,,20,,,,,,,,N/A
+663,Talonflame,"Fire,Flying",Scorching Pokémon,Flame Body,24.5kg,1.2 m,50,50,Flying,N/A,,,,,N/A,,N/A,,16,,,160,194,,24,,N/A
+662,Fletchinder,"Fire,Flying",Ember Pokémon,Flame Body,17.0 kg,0.7 m,50,50,Flying,N/A,,,,,N/A,,N/A,,15,,,159,193,,23,,N/A
+661,Fletchling,"Normal,Flying",Tiny Robin Pokémon,Big Pecks,1.7 kg,0.3 m,50,50,Flying,N/A,,,,,N/A,,N/A,,14,,,158,192,,22,,19
+660,Diggersby,"Normal,Ground",Digging Pokémon,"Pickup,Cheek Pouch",42.4 kg,1.0 m,50,50,Field,N/A,,,,,N/A,,N/A,,11,,,,,,,,N/A
+659,Bunnelby,"Normal,Ground",Digging Pokémon,"Pickup,Cheek Pouch",5.0 kg,0.4 m,50,50,Field,N/A,,,,,N/A,,N/A,,10,,,,,,,,N/A
+658,Greninja,"Water,Dark",Ninja Pokémon,Torrent,40.0 kg,1.5 m,87.5,12.5,"Water 1,Water 1",N/A,,,,,N/A,,N/A,,9,,,,,,,,N/A
+657,Frogadier,"Water,Water",Bubble Frog Pokémon,Torrent,10.9 kg,0.6 m,87.5,12.5,Water 1,N/A,,,,,N/A,,N/A,,8,,,,,,,,N/A
+656,Froakie,"Water,Water",Bubble Frog Pokémon,Torrent,7.0 kg,0.3 m,87.5,12.5,Water 1,N/A,,,,,N/A,,N/A,,7,,,,,,,,N/A
+655,Delphox,"Fire,Psychic",Fox Pokémon,Blaze,39.0 kg,1.5 m,87.5,12.5,Field,N/A,,,,,N/A,,N/A,,6,,,,,,,,N/A
+654,Braixen,"Fire,Fire",Fox Pokémon,Blaze,14.5 kg,1.0 m,87.5,12.5,Field,N/A,,,,,N/A,,N/A,,5,,,,,,,,N/A
+653,Fennekin,"Fire,Fire",Fox Pokémon,Blaze,9.4 kg,0.4 m,87.5,12.5,Field,N/A,,,,,N/A,,N/A,,4,,,,,,,,N/A
+652,Chesnaught,"Grass,Fighting",Spiny Armor Pokemon,Overgrow,90.0 kg,1.6 m,87.5,12.5,Field,N/A,,,,,N/A,,N/A,,3,,,,,,,,N/A
+651,Quilladin,"Grass,Grass",Spiny Armor Pokémon,Overgrow,29.0 kg,0.7 m,87.5,12.5,Field,N/A,,,,,N/A,,N/A,,2,,,,,,,,N/A
+650,Chespin,"Grass,Grass",Spiny Nut Pokémon,Overgrow,9.0 kg,0.4 m,87.5,12.5,Field,N/A,,,,,N/A,,N/A,,1,,,,,,,,N/A
