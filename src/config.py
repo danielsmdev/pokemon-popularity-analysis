@@ -1,3 +1,7 @@
 DATA_PATH = "../data/data_collection/pokemon_full_data.csv"
 PARTIAL_SAVE_PATH_DATA_COLLECTION = "../data/partial_data"
 FINAL_SAVE_PATH_DATA_COLLECTION = "../data/data_collection/pokemon_full_data.csv"
+FILTER_DATA_PATH = "../data/data_filtered/pokemon_filtered_data.csv"
+SORTED_FILTER_DATA_PATH = "../data/data_filtered/pokemon_filtered_sorted_data.csv"
+SORTED_FILTER_DATA_PATH_CLEANED = "../data/data_filtered/pokemon_filtered_sorted_data_cleaned.csv"
+FINAL_DATASET_PATH = "../data/pokemon_dataset_final.csv"
