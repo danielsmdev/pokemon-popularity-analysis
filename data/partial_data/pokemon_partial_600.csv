@@ -1,0 +1,743 @@
+index,name,type,height,weight,abilities,hidden_ability,hp,attack,defense,sp_atk,sp_def,speed
+1,bulbasaur,grass / poison,0.7,6.9,overgrow,chlorophyll,45,49,49,65,65,45
+2,ivysaur,grass / poison,1.0,13.0,overgrow,chlorophyll,60,62,63,80,80,60
+3,venusaur,grass / poison,2.0,100.0,overgrow,chlorophyll,80,82,83,100,100,80
+3,venusaur-mega,grass / poison,2.4,155.5,thick-fat,,80,100,123,122,120,80
+3,venusaur-gmax,grass / poison,24.0,1000.0,overgrow,chlorophyll,80,82,83,100,100,80
+4,charmander,fire,0.6,8.5,blaze,solar-power,39,52,43,60,50,65
+5,charmeleon,fire,1.1,19.0,blaze,solar-power,58,64,58,80,65,80
+6,charizard,fire / flying,1.7,90.5,blaze,solar-power,78,84,78,109,85,100
+6,charizard-mega-x,fire / dragon,1.7,110.5,tough-claws,,78,130,111,130,85,100
+6,charizard-mega-y,fire / flying,1.7,100.5,drought,,78,104,78,159,115,100
+6,charizard-gmax,fire / flying,28.0,1000.0,blaze,solar-power,78,84,78,109,85,100
+7,squirtle,water,0.5,9.0,torrent,rain-dish,44,48,65,50,64,43
+8,wartortle,water,1.0,22.5,torrent,rain-dish,59,63,80,65,80,58
+9,blastoise,water,1.6,85.5,torrent,rain-dish,79,83,100,85,105,78
+9,blastoise-mega,water,1.6,101.1,mega-launcher,,79,103,120,135,115,78
+9,blastoise-gmax,water,25.0,1000.0,torrent,rain-dish,79,83,100,85,105,78
+10,caterpie,bug,0.3,2.9,shield-dust,run-away,45,30,35,20,20,45
+11,metapod,bug,0.7,9.9,shed-skin,,50,20,55,25,25,30
+12,butterfree,bug / flying,1.1,32.0,compound-eyes,tinted-lens,60,45,50,90,80,70
+12,butterfree-gmax,bug / flying,17.0,1000.0,compound-eyes,tinted-lens,60,45,50,90,80,70
+13,weedle,bug / poison,0.3,3.2,shield-dust,run-away,40,35,30,20,20,50
+14,kakuna,bug / poison,0.6,10.0,shed-skin,,45,25,50,25,25,35
+15,beedrill,bug / poison,1.0,29.5,swarm,sniper,65,90,40,45,80,75
+15,beedrill-mega,bug / poison,1.4,40.5,adaptability,,65,150,40,15,80,145
+16,pidgey,normal / flying,0.3,1.8,keen-eye / tangled-feet,big-pecks,40,45,40,35,35,56
+17,pidgeotto,normal / flying,1.1,30.0,keen-eye / tangled-feet,big-pecks,63,60,55,50,50,71
+18,pidgeot,normal / flying,1.5,39.5,keen-eye / tangled-feet,big-pecks,83,80,75,70,70,101
+18,pidgeot-mega,normal / flying,2.2,50.5,no-guard,,83,80,80,135,80,121
+19,rattata,normal,0.3,3.5,run-away / guts,hustle,30,56,35,25,35,72
+19,rattata-alola,dark / normal,0.3,3.8,gluttony / hustle,thick-fat,30,56,35,25,35,72
+20,raticate,normal,0.7,18.5,run-away / guts,hustle,55,81,60,50,70,97
+20,raticate-alola,dark / normal,0.7,25.5,gluttony / hustle,thick-fat,75,71,70,40,80,77
+20,raticate-totem-alola,dark / normal,1.4,105.0,gluttony / hustle,thick-fat,75,71,70,40,80,77
+21,spearow,normal / flying,0.3,2.0,keen-eye,sniper,40,60,30,31,31,70
+22,fearow,normal / flying,1.2,38.0,keen-eye,sniper,65,90,65,61,61,100
+23,ekans,poison,2.0,6.9,intimidate / shed-skin,unnerve,35,60,44,40,54,55
+24,arbok,poison,3.5,65.0,intimidate / shed-skin,unnerve,60,95,69,65,79,80
+25,pikachu,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-rock-star,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-belle,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-pop-star,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-phd,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-libre,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-cosplay,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-original-cap,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-hoenn-cap,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-sinnoh-cap,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-unova-cap,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-kalos-cap,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-alola-cap,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-partner-cap,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-starter,electric,0.4,6.0,static,lightning-rod,45,80,50,75,60,120
+25,pikachu-world-cap,electric,0.4,6.0,static,lightning-rod,35,55,40,50,50,90
+25,pikachu-gmax,electric,21.0,1000.0,static,lightning-rod,35,55,40,50,50,90
+26,raichu,electric,0.8,30.0,static,lightning-rod,60,90,55,90,80,110
+26,raichu-alola,electric / psychic,0.7,21.0,surge-surfer,,60,85,50,95,85,110
+27,sandshrew,ground,0.6,12.0,sand-veil,sand-rush,50,75,85,20,30,40
+27,sandshrew-alola,ice / steel,0.7,40.0,snow-cloak,slush-rush,50,75,90,10,35,40
+28,sandslash,ground,1.0,29.5,sand-veil,sand-rush,75,100,110,45,55,65
+28,sandslash-alola,ice / steel,1.2,55.0,snow-cloak,slush-rush,75,100,120,25,65,65
+29,nidoran-f,poison,0.4,7.0,poison-point / rivalry,hustle,55,47,52,40,40,41
+30,nidorina,poison,0.8,20.0,poison-point / rivalry,hustle,70,62,67,55,55,56
+31,nidoqueen,poison / ground,1.3,60.0,poison-point / rivalry,sheer-force,90,92,87,75,85,76
+32,nidoran-m,poison,0.5,9.0,poison-point / rivalry,hustle,46,57,40,40,40,50
+33,nidorino,poison,0.9,19.5,poison-point / rivalry,hustle,61,72,57,55,55,65
+34,nidoking,poison / ground,1.4,62.0,poison-point / rivalry,sheer-force,81,102,77,85,75,85
+35,clefairy,fairy,0.6,7.5,cute-charm / magic-guard,friend-guard,70,45,48,60,65,35
+36,clefable,fairy,1.3,40.0,cute-charm / magic-guard,unaware,95,70,73,95,90,60
+37,vulpix,fire,0.6,9.9,flash-fire,drought,38,41,40,50,65,65
+37,vulpix-alola,ice,0.6,9.9,snow-cloak,snow-warning,38,41,40,50,65,65
+38,ninetales,fire,1.1,19.9,flash-fire,drought,73,76,75,81,100,100
+38,ninetales-alola,ice / fairy,1.1,19.9,snow-cloak,snow-warning,73,67,75,81,100,109
+39,jigglypuff,normal / fairy,0.5,5.5,cute-charm / competitive,friend-guard,115,45,20,45,25,20
+40,wigglytuff,normal / fairy,1.0,12.0,cute-charm / competitive,frisk,140,70,45,85,50,45
+41,zubat,poison / flying,0.8,7.5,inner-focus,infiltrator,40,45,35,30,40,55
+42,golbat,poison / flying,1.6,55.0,inner-focus,infiltrator,75,80,70,65,75,90
+43,oddish,grass / poison,0.5,5.4,chlorophyll,run-away,45,50,55,75,65,30
+44,gloom,grass / poison,0.8,8.6,chlorophyll,stench,60,65,70,85,75,40
+45,vileplume,grass / poison,1.2,18.6,chlorophyll,effect-spore,75,80,85,110,90,50
+46,paras,bug / grass,0.3,5.4,effect-spore / dry-skin,damp,35,70,55,45,55,25
+47,parasect,bug / grass,1.0,29.5,effect-spore / dry-skin,damp,60,95,80,60,80,30
+48,venonat,bug / poison,1.0,30.0,compound-eyes / tinted-lens,run-away,60,55,50,40,55,45
+49,venomoth,bug / poison,1.5,12.5,shield-dust / tinted-lens,wonder-skin,70,65,60,90,75,90
+50,diglett,ground,0.2,0.8,sand-veil / arena-trap,sand-force,10,55,25,35,45,95
+50,diglett-alola,ground / steel,0.2,1.0,sand-veil / tangling-hair,sand-force,10,55,30,35,45,90
+51,dugtrio,ground,0.7,33.3,sand-veil / arena-trap,sand-force,35,100,50,50,70,120
+51,dugtrio-alola,ground / steel,0.7,66.6,sand-veil / tangling-hair,sand-force,35,100,60,50,70,110
+52,meowth,normal,0.4,4.2,pickup / technician,unnerve,40,45,35,40,40,90
+52,meowth-alola,dark,0.4,4.2,pickup / technician,rattled,40,35,35,50,40,90
+52,meowth-galar,steel,0.4,7.5,pickup / tough-claws,unnerve,50,65,55,40,40,40
+52,meowth-gmax,normal,33.0,1000.0,pickup / technician,unnerve,40,45,35,40,40,90
+53,persian,normal,1.0,32.0,limber / technician,unnerve,65,70,60,65,65,115
+53,persian-alola,dark,1.1,33.0,fur-coat / technician,rattled,65,60,60,75,65,115
+54,psyduck,water,0.8,19.6,damp / cloud-nine,swift-swim,50,52,48,65,50,55
+55,golduck,water,1.7,76.6,damp / cloud-nine,swift-swim,80,82,78,95,80,85
+56,mankey,fighting,0.5,28.0,vital-spirit / anger-point,defiant,40,80,35,35,45,70
+57,primeape,fighting,1.0,32.0,vital-spirit / anger-point,defiant,65,105,60,60,70,95
+58,growlithe,fire,0.7,19.0,intimidate / flash-fire,justified,55,70,45,70,50,60
+58,growlithe-hisui,fire / rock,0.8,22.7,intimidate / flash-fire,rock-head,60,75,45,65,50,55
+59,arcanine,fire,1.9,155.0,intimidate / flash-fire,justified,90,110,80,100,80,95
+59,arcanine-hisui,fire / rock,2.0,168.0,intimidate / flash-fire,rock-head,95,115,80,95,80,90
+60,poliwag,water,0.6,12.4,water-absorb / damp,swift-swim,40,50,40,40,40,90
+61,poliwhirl,water,1.0,20.0,water-absorb / damp,swift-swim,65,65,65,50,50,90
+62,poliwrath,water / fighting,1.3,54.0,water-absorb / damp,swift-swim,90,95,95,70,90,70
+63,abra,psychic,0.9,19.5,synchronize / inner-focus,magic-guard,25,20,15,105,55,90
+64,kadabra,psychic,1.3,56.5,synchronize / inner-focus,magic-guard,40,35,30,120,70,105
+65,alakazam,psychic,1.5,48.0,synchronize / inner-focus,magic-guard,55,50,45,135,95,120
+65,alakazam-mega,psychic,1.2,48.0,trace,,55,50,65,175,105,150
+66,machop,fighting,0.8,19.5,guts / no-guard,steadfast,70,80,50,35,35,35
+67,machoke,fighting,1.5,70.5,guts / no-guard,steadfast,80,100,70,50,60,45
+68,machamp,fighting,1.6,130.0,guts / no-guard,steadfast,90,130,80,65,85,55
+68,machamp-gmax,fighting,25.0,1000.0,guts / no-guard,steadfast,90,130,80,65,85,55
+69,bellsprout,grass / poison,0.7,4.0,chlorophyll,gluttony,50,75,35,70,30,40
+70,weepinbell,grass / poison,1.0,6.4,chlorophyll,gluttony,65,90,50,85,45,55
+71,victreebel,grass / poison,1.7,15.5,chlorophyll,gluttony,80,105,65,100,70,70
+72,tentacool,water / poison,0.9,45.5,clear-body / liquid-ooze,rain-dish,40,40,35,50,100,70
+73,tentacruel,water / poison,1.6,55.0,clear-body / liquid-ooze,rain-dish,80,70,65,80,120,100
+74,geodude,rock / ground,0.4,20.0,rock-head / sturdy,sand-veil,40,80,100,30,30,20
+74,geodude-alola,rock / electric,0.4,20.3,magnet-pull / sturdy,galvanize,40,80,100,30,30,20
+75,graveler,rock / ground,1.0,105.0,rock-head / sturdy,sand-veil,55,95,115,45,45,35
+75,graveler-alola,rock / electric,1.0,110.0,magnet-pull / sturdy,galvanize,55,95,115,45,45,35
+76,golem,rock / ground,1.4,300.0,rock-head / sturdy,sand-veil,80,120,130,55,65,45
+76,golem-alola,rock / electric,1.7,316.0,magnet-pull / sturdy,galvanize,80,120,130,55,65,45
+77,ponyta,fire,1.0,30.0,run-away / flash-fire,flame-body,50,85,55,65,65,90
+77,ponyta-galar,psychic,0.8,24.0,run-away / pastel-veil,anticipation,50,85,55,65,65,90
+78,rapidash,fire,1.7,95.0,run-away / flash-fire,flame-body,65,100,70,80,80,105
+78,rapidash-galar,psychic / fairy,1.7,80.0,run-away / pastel-veil,anticipation,65,100,70,80,80,105
+79,slowpoke,water / psychic,1.2,36.0,oblivious / own-tempo,regenerator,90,65,65,40,40,15
+79,slowpoke-galar,psychic,1.2,36.0,gluttony / own-tempo,regenerator,90,65,65,40,40,15
+80,slowbro,water / psychic,1.6,78.5,oblivious / own-tempo,regenerator,95,75,110,100,80,30
+80,slowbro-mega,water / psychic,2.0,120.0,shell-armor,,95,75,180,130,80,30
+80,slowbro-galar,poison / psychic,1.6,70.5,quick-draw / own-tempo,regenerator,95,100,95,100,70,30
+81,magnemite,electric / steel,0.3,6.0,magnet-pull / sturdy,analytic,25,35,70,95,55,45
+82,magneton,electric / steel,1.0,60.0,magnet-pull / sturdy,analytic,50,60,95,120,70,70
+83,farfetchd,normal / flying,0.8,15.0,keen-eye / inner-focus,defiant,52,90,55,58,62,60
+83,farfetchd-galar,fighting,0.8,42.0,steadfast,scrappy,52,95,55,58,62,55
+84,doduo,normal / flying,1.4,39.2,run-away / early-bird,tangled-feet,35,85,45,35,35,75
+85,dodrio,normal / flying,1.8,85.2,run-away / early-bird,tangled-feet,60,110,70,60,60,110
+86,seel,water,1.1,90.0,thick-fat / hydration,ice-body,65,45,55,45,70,45
+87,dewgong,water / ice,1.7,120.0,thick-fat / hydration,ice-body,90,70,80,70,95,70
+88,grimer,poison,0.9,30.0,stench / sticky-hold,poison-touch,80,80,50,40,50,25
+88,grimer-alola,poison / dark,0.7,42.0,poison-touch / gluttony,power-of-alchemy,80,80,50,40,50,25
+89,muk,poison,1.2,30.0,stench / sticky-hold,poison-touch,105,105,75,65,100,50
+89,muk-alola,poison / dark,1.0,52.0,poison-touch / gluttony,power-of-alchemy,105,105,75,65,100,50
+90,shellder,water,0.3,4.0,shell-armor / skill-link,overcoat,30,65,100,45,25,40
+91,cloyster,water / ice,1.5,132.5,shell-armor / skill-link,overcoat,50,95,180,85,45,70
+92,gastly,ghost / poison,1.3,0.1,levitate,,30,35,30,100,35,80
+93,haunter,ghost / poison,1.6,0.1,levitate,,45,50,45,115,55,95
+94,gengar,ghost / poison,1.5,40.5,cursed-body,,60,65,60,130,75,110
+94,gengar-mega,ghost / poison,1.4,40.5,shadow-tag,,60,65,80,170,95,130
+94,gengar-gmax,ghost / poison,20.0,1000.0,cursed-body,,60,65,60,130,75,110
+95,onix,rock / ground,8.8,210.0,rock-head / sturdy,weak-armor,35,45,160,30,45,70
+96,drowzee,psychic,1.0,32.4,insomnia / forewarn,inner-focus,60,48,45,43,90,42
+97,hypno,psychic,1.6,75.6,insomnia / forewarn,inner-focus,85,73,70,73,115,67
+98,krabby,water,0.4,6.5,hyper-cutter / shell-armor,sheer-force,30,105,90,25,25,50
+99,kingler,water,1.3,60.0,hyper-cutter / shell-armor,sheer-force,55,130,115,50,50,75
+99,kingler-gmax,water,19.0,1000.0,hyper-cutter / shell-armor,sheer-force,55,130,115,50,50,75
+100,voltorb,electric,0.5,10.4,soundproof / static,aftermath,40,30,50,55,55,100
+100,voltorb-hisui,electric / grass,0.5,13.0,soundproof / static,aftermath,40,30,50,55,55,100
+101,electrode,electric,1.2,66.6,soundproof / static,aftermath,60,50,70,80,80,150
+101,electrode-hisui,electric / grass,1.2,71.0,soundproof / static,aftermath,60,50,70,80,80,150
+102,exeggcute,grass / psychic,0.4,2.5,chlorophyll,harvest,60,40,80,60,45,40
+103,exeggutor,grass / psychic,2.0,120.0,chlorophyll,harvest,95,95,85,125,75,55
+103,exeggutor-alola,grass / dragon,10.9,415.6,frisk,harvest,95,105,85,125,75,45
+104,cubone,ground,0.4,6.5,rock-head / lightning-rod,battle-armor,50,50,95,40,50,35
+105,marowak,ground,1.0,45.0,rock-head / lightning-rod,battle-armor,60,80,110,50,80,45
+105,marowak-alola,fire / ghost,1.0,34.0,cursed-body / lightning-rod,rock-head,60,80,110,50,80,45
+105,marowak-totem,fire / ghost,1.7,98.0,cursed-body / lightning-rod,rock-head,60,80,110,50,80,45
+106,hitmonlee,fighting,1.5,49.8,limber / reckless,unburden,50,120,53,35,110,87
+107,hitmonchan,fighting,1.4,50.2,keen-eye / iron-fist,inner-focus,50,105,79,35,110,76
+108,lickitung,normal,1.2,65.5,own-tempo / oblivious,cloud-nine,90,55,75,60,75,30
+109,koffing,poison,0.6,1.0,levitate / neutralizing-gas,stench,40,65,95,60,45,35
+110,weezing,poison,1.2,9.5,levitate / neutralizing-gas,stench,65,90,120,85,70,60
+110,weezing-galar,poison / fairy,3.0,16.0,levitate / neutralizing-gas,misty-surge,65,90,120,85,70,60
+111,rhyhorn,ground / rock,1.0,115.0,lightning-rod / rock-head,reckless,80,85,95,30,30,25
+112,rhydon,ground / rock,1.9,120.0,lightning-rod / rock-head,reckless,105,130,120,45,45,40
+113,chansey,normal,1.1,34.6,natural-cure / serene-grace,healer,250,5,5,35,105,50
+114,tangela,grass,1.0,35.0,chlorophyll / leaf-guard,regenerator,65,55,115,100,40,60
+115,kangaskhan,normal,2.2,80.0,early-bird / scrappy,inner-focus,105,95,80,40,80,90
+115,kangaskhan-mega,normal,2.2,100.0,parental-bond,,105,125,100,60,100,100
+116,horsea,water,0.4,8.0,swift-swim / sniper,damp,30,40,70,70,25,60
+117,seadra,water,1.2,25.0,poison-point / sniper,damp,55,65,95,95,45,85
+118,goldeen,water,0.6,15.0,swift-swim / water-veil,lightning-rod,45,67,60,35,50,63
+119,seaking,water,1.3,39.0,swift-swim / water-veil,lightning-rod,80,92,65,65,80,68
+120,staryu,water,0.8,34.5,illuminate / natural-cure,analytic,30,45,55,70,55,85
+121,starmie,water / psychic,1.1,80.0,illuminate / natural-cure,analytic,60,75,85,100,85,115
+122,mr-mime,psychic / fairy,1.3,54.5,soundproof / filter,technician,40,45,65,100,120,90
+122,mr-mime-galar,ice / psychic,1.4,56.8,vital-spirit / screen-cleaner,ice-body,50,65,65,90,90,100
+123,scyther,bug / flying,1.5,56.0,swarm / technician,steadfast,70,110,80,55,80,105
+124,jynx,ice / psychic,1.4,40.6,oblivious / forewarn,dry-skin,65,50,35,115,95,95
+125,electabuzz,electric,1.1,30.0,static,vital-spirit,65,83,57,95,85,105
+126,magmar,fire,1.3,44.5,flame-body,vital-spirit,65,95,57,100,85,93
+127,pinsir,bug,1.5,55.0,hyper-cutter / mold-breaker,moxie,65,125,100,55,70,85
+127,pinsir-mega,bug / flying,1.7,59.0,aerilate,,65,155,120,65,90,105
+128,tauros,normal,1.4,88.4,intimidate / anger-point,sheer-force,75,100,95,40,70,110
+128,tauros-paldea-combat-breed,fighting,1.4,115.0,intimidate / anger-point,cud-chew,75,110,105,30,70,100
+128,tauros-paldea-blaze-breed,fighting / fire,1.4,85.0,intimidate / anger-point,cud-chew,75,110,105,30,70,100
+128,tauros-paldea-aqua-breed,fighting / water,1.4,110.0,intimidate / anger-point,cud-chew,75,110,105,30,70,100
+129,magikarp,water,0.9,10.0,swift-swim,rattled,20,10,55,15,20,80
+130,gyarados,water / flying,6.5,235.0,intimidate,moxie,95,125,79,60,100,81
+130,gyarados-mega,water / dark,6.5,305.0,mold-breaker,,95,155,109,70,130,81
+131,lapras,water / ice,2.5,220.0,water-absorb / shell-armor,hydration,130,85,80,85,95,60
+131,lapras-gmax,water / ice,24.0,1000.0,water-absorb / shell-armor,hydration,130,85,80,85,95,60
+132,ditto,normal,0.3,4.0,limber,imposter,48,48,48,48,48,48
+133,eevee,normal,0.3,6.5,run-away / adaptability,anticipation,55,55,50,45,65,55
+133,eevee-starter,normal,0.3,6.5,run-away / adaptability,anticipation,65,75,70,65,85,75
+133,eevee-gmax,normal,18.0,1000.0,run-away / adaptability,anticipation,55,55,50,45,65,55
+134,vaporeon,water,1.0,29.0,water-absorb,hydration,130,65,60,110,95,65
+135,jolteon,electric,0.8,24.5,volt-absorb,quick-feet,65,65,60,110,95,130
+136,flareon,fire,0.9,25.0,flash-fire,guts,65,130,60,95,110,65
+137,porygon,normal,0.8,36.5,trace / download,analytic,65,60,70,85,75,40
+138,omanyte,rock / water,0.4,7.5,swift-swim / shell-armor,weak-armor,35,40,100,90,55,35
+139,omastar,rock / water,1.0,35.0,swift-swim / shell-armor,weak-armor,70,60,125,115,70,55
+140,kabuto,rock / water,0.5,11.5,swift-swim / battle-armor,weak-armor,30,80,90,55,45,55
+141,kabutops,rock / water,1.3,40.5,swift-swim / battle-armor,weak-armor,60,115,105,65,70,80
+142,aerodactyl,rock / flying,1.8,59.0,rock-head / pressure,unnerve,80,105,65,60,75,130
+142,aerodactyl-mega,rock / flying,2.1,79.0,tough-claws,,80,135,85,70,95,150
+143,snorlax,normal,2.1,460.0,immunity / thick-fat,gluttony,160,110,65,65,110,30
+143,snorlax-gmax,normal,35.0,1000.0,immunity / thick-fat,gluttony,160,110,65,65,110,30
+144,articuno,ice / flying,1.7,55.4,pressure,snow-cloak,90,85,100,95,125,85
+144,articuno-galar,psychic / flying,1.7,50.9,competitive,,90,85,85,125,100,95
+145,zapdos,electric / flying,1.6,52.6,pressure,static,90,90,85,125,90,100
+145,zapdos-galar,fighting / flying,1.6,58.2,defiant,,90,125,90,85,90,100
+146,moltres,fire / flying,2.0,60.0,pressure,flame-body,90,100,90,125,85,90
+146,moltres-galar,dark / flying,2.0,66.0,berserk,,90,85,90,100,125,90
+147,dratini,dragon,1.8,3.3,shed-skin,marvel-scale,41,64,45,50,50,50
+148,dragonair,dragon,4.0,16.5,shed-skin,marvel-scale,61,84,65,70,70,70
+149,dragonite,dragon / flying,2.2,210.0,inner-focus,multiscale,91,134,95,100,100,80
+150,mewtwo,psychic,2.0,122.0,pressure,unnerve,106,110,90,154,90,130
+150,mewtwo-mega-x,psychic / fighting,2.3,127.0,steadfast,,106,190,100,154,100,130
+150,mewtwo-mega-y,psychic,1.5,33.0,insomnia,,106,150,70,194,120,140
+151,mew,psychic,0.4,4.0,synchronize,,100,100,100,100,100,100
+152,chikorita,grass,0.9,6.4,overgrow,leaf-guard,45,49,65,49,65,45
+153,bayleef,grass,1.2,15.8,overgrow,leaf-guard,60,62,80,63,80,60
+154,meganium,grass,1.8,100.5,overgrow,leaf-guard,80,82,100,83,100,80
+155,cyndaquil,fire,0.5,7.9,blaze,flash-fire,39,52,43,60,50,65
+156,quilava,fire,0.9,19.0,blaze,flash-fire,58,64,58,80,65,80
+157,typhlosion,fire,1.7,79.5,blaze,flash-fire,78,84,78,109,85,100
+157,typhlosion-hisui,fire / ghost,1.6,69.8,blaze,frisk,73,84,78,119,85,95
+158,totodile,water,0.6,9.5,torrent,sheer-force,50,65,64,44,48,43
+159,croconaw,water,1.1,25.0,torrent,sheer-force,65,80,80,59,63,58
+160,feraligatr,water,2.3,88.8,torrent,sheer-force,85,105,100,79,83,78
+161,sentret,normal,0.8,6.0,run-away / keen-eye,frisk,35,46,34,35,45,20
+162,furret,normal,1.8,32.5,run-away / keen-eye,frisk,85,76,64,45,55,90
+163,hoothoot,normal / flying,0.7,21.2,insomnia / keen-eye,tinted-lens,60,30,30,36,56,50
+164,noctowl,normal / flying,1.6,40.8,insomnia / keen-eye,tinted-lens,100,50,50,86,96,70
+165,ledyba,bug / flying,1.0,10.8,swarm / early-bird,rattled,40,20,30,40,80,55
+166,ledian,bug / flying,1.4,35.6,swarm / early-bird,iron-fist,55,35,50,55,110,85
+167,spinarak,bug / poison,0.5,8.5,swarm / insomnia,sniper,40,60,40,40,40,30
+168,ariados,bug / poison,1.1,33.5,swarm / insomnia,sniper,70,90,70,60,70,40
+169,crobat,poison / flying,1.8,75.0,inner-focus,infiltrator,85,90,80,70,80,130
+170,chinchou,water / electric,0.5,12.0,volt-absorb / illuminate,water-absorb,75,38,38,56,56,67
+171,lanturn,water / electric,1.2,22.5,volt-absorb / illuminate,water-absorb,125,58,58,76,76,67
+172,pichu,electric,0.3,2.0,static,lightning-rod,20,40,15,35,35,60
+173,cleffa,fairy,0.3,3.0,cute-charm / magic-guard,friend-guard,50,25,28,45,55,15
+174,igglybuff,normal / fairy,0.3,1.0,cute-charm / competitive,friend-guard,90,30,15,40,20,15
+175,togepi,fairy,0.3,1.5,hustle / serene-grace,super-luck,35,20,65,40,65,20
+176,togetic,fairy / flying,0.6,3.2,hustle / serene-grace,super-luck,55,40,85,80,105,40
+177,natu,psychic / flying,0.2,2.0,synchronize / early-bird,magic-bounce,40,50,45,70,45,70
+178,xatu,psychic / flying,1.5,15.0,synchronize / early-bird,magic-bounce,65,75,70,95,70,95
+179,mareep,electric,0.6,7.8,static,plus,55,40,40,65,45,35
+180,flaaffy,electric,0.8,13.3,static,plus,70,55,55,80,60,45
+181,ampharos,electric,1.4,61.5,static,plus,90,75,85,115,90,55
+181,ampharos-mega,electric / dragon,1.4,61.5,mold-breaker,,90,95,105,165,110,45
+182,bellossom,grass,0.4,5.8,chlorophyll,healer,75,80,95,90,100,50
+183,marill,water / fairy,0.4,8.5,thick-fat / huge-power,sap-sipper,70,20,50,20,50,40
+184,azumarill,water / fairy,0.8,28.5,thick-fat / huge-power,sap-sipper,100,50,80,60,80,50
+185,sudowoodo,rock,1.2,38.0,sturdy / rock-head,rattled,70,100,115,30,65,30
+186,politoed,water,1.1,33.9,water-absorb / damp,drizzle,90,75,75,90,100,70
+187,hoppip,grass / flying,0.4,0.5,chlorophyll / leaf-guard,infiltrator,35,35,40,35,55,50
+188,skiploom,grass / flying,0.6,1.0,chlorophyll / leaf-guard,infiltrator,55,45,50,45,65,80
+189,jumpluff,grass / flying,0.8,3.0,chlorophyll / leaf-guard,infiltrator,75,55,70,55,95,110
+190,aipom,normal,0.8,11.5,run-away / pickup,skill-link,55,70,55,40,55,85
+191,sunkern,grass,0.3,1.8,chlorophyll / solar-power,early-bird,30,30,30,30,30,30
+192,sunflora,grass,0.8,8.5,chlorophyll / solar-power,early-bird,75,75,55,105,85,30
+193,yanma,bug / flying,1.2,38.0,speed-boost / compound-eyes,frisk,65,65,45,75,45,95
+194,wooper,water / ground,0.4,8.5,damp / water-absorb,unaware,55,45,45,25,25,15
+194,wooper-paldea,poison / ground,0.4,11.0,poison-point / water-absorb,unaware,55,45,45,25,25,15
+195,quagsire,water / ground,1.4,75.0,damp / water-absorb,unaware,95,85,85,65,65,35
+196,espeon,psychic,0.9,26.5,synchronize,magic-bounce,65,65,60,130,95,110
+197,umbreon,dark,1.0,27.0,synchronize,inner-focus,95,65,110,60,130,65
+198,murkrow,dark / flying,0.5,2.1,insomnia / super-luck,prankster,60,85,42,85,42,91
+199,slowking,water / psychic,2.0,79.5,oblivious / own-tempo,regenerator,95,75,80,100,110,30
+199,slowking-galar,poison / psychic,1.8,79.5,curious-medicine / own-tempo,regenerator,95,65,80,110,110,30
+200,misdreavus,ghost,0.7,1.0,levitate,,60,60,60,85,85,85
+201,unown,psychic,0.5,5.0,levitate,,48,72,48,72,48,48
+202,wobbuffet,psychic,1.3,28.5,shadow-tag,telepathy,190,33,58,33,58,33
+203,girafarig,normal / psychic,1.5,41.5,inner-focus / early-bird,sap-sipper,70,80,65,90,65,85
+204,pineco,bug,0.6,7.2,sturdy,overcoat,50,65,90,35,35,15
+205,forretress,bug / steel,1.2,125.8,sturdy,overcoat,75,90,140,60,60,40
+206,dunsparce,normal,1.5,14.0,serene-grace / run-away,rattled,100,70,70,65,65,45
+207,gligar,ground / flying,1.1,64.8,hyper-cutter / sand-veil,immunity,65,75,105,35,65,85
+208,steelix,steel / ground,9.2,400.0,rock-head / sturdy,sheer-force,75,85,200,55,65,30
+208,steelix-mega,steel / ground,10.5,740.0,sand-force,,75,125,230,55,95,30
+209,snubbull,fairy,0.6,7.8,intimidate / run-away,rattled,60,80,50,40,40,30
+210,granbull,fairy,1.4,48.7,intimidate / quick-feet,rattled,90,120,75,60,60,45
+211,qwilfish,water / poison,0.5,3.9,poison-point / swift-swim,intimidate,65,95,85,55,55,85
+211,qwilfish-hisui,dark / poison,0.5,3.9,poison-point / swift-swim,intimidate,65,95,85,55,55,85
+212,scizor,bug / steel,1.8,118.0,swarm / technician,light-metal,70,130,100,55,80,65
+212,scizor-mega,bug / steel,2.0,125.0,technician,,70,150,140,65,100,75
+213,shuckle,bug / rock,0.6,20.5,sturdy / gluttony,contrary,20,10,230,10,230,5
+214,heracross,bug / fighting,1.5,54.0,swarm / guts,moxie,80,125,75,40,95,85
+214,heracross-mega,bug / fighting,1.7,62.5,skill-link,,80,185,115,40,105,75
+215,sneasel,dark / ice,0.9,28.0,inner-focus / keen-eye,pickpocket,55,95,55,35,75,115
+215,sneasel-hisui,fighting / poison,0.9,27.0,inner-focus / keen-eye,pickpocket,55,95,55,35,75,115
+216,teddiursa,normal,0.6,8.8,pickup / quick-feet,honey-gather,60,80,50,50,50,40
+217,ursaring,normal,1.8,125.8,guts / quick-feet,unnerve,90,130,75,75,75,55
+218,slugma,fire,0.7,35.0,magma-armor / flame-body,weak-armor,40,40,40,70,40,20
+219,magcargo,fire / rock,0.8,55.0,magma-armor / flame-body,weak-armor,60,50,120,90,80,30
+220,swinub,ice / ground,0.4,6.5,oblivious / snow-cloak,thick-fat,50,50,40,30,30,50
+221,piloswine,ice / ground,1.1,55.8,oblivious / snow-cloak,thick-fat,100,100,80,60,60,50
+222,corsola,water / rock,0.6,5.0,hustle / natural-cure,regenerator,65,55,95,65,95,35
+222,corsola-galar,ghost,0.6,0.5,weak-armor,cursed-body,60,55,100,65,100,30
+223,remoraid,water,0.6,12.0,hustle / sniper,moody,35,65,35,65,35,65
+224,octillery,water,0.9,28.5,suction-cups / sniper,moody,75,105,75,105,75,45
+225,delibird,ice / flying,0.9,16.0,vital-spirit / hustle,insomnia,45,55,45,65,45,75
+226,mantine,water / flying,2.1,220.0,swift-swim / water-absorb,water-veil,85,40,70,80,140,70
+227,skarmory,steel / flying,1.7,50.5,keen-eye / sturdy,weak-armor,65,80,140,40,70,70
+228,houndour,dark / fire,0.6,10.8,early-bird / flash-fire,unnerve,45,60,30,80,50,65
+229,houndoom,dark / fire,1.4,35.0,early-bird / flash-fire,unnerve,75,90,50,110,80,95
+229,houndoom-mega,dark / fire,1.9,49.5,solar-power,,75,90,90,140,90,115
+230,kingdra,water / dragon,1.8,152.0,swift-swim / sniper,damp,75,95,95,95,95,85
+231,phanpy,ground,0.5,33.5,pickup,sand-veil,90,60,60,40,40,40
+232,donphan,ground,1.1,120.0,sturdy,sand-veil,90,120,120,60,60,50
+233,porygon2,normal,0.6,32.5,trace / download,analytic,85,80,90,105,95,60
+234,stantler,normal,1.4,71.2,intimidate / frisk,sap-sipper,73,95,62,85,65,85
+235,smeargle,normal,1.2,58.0,own-tempo / technician,moody,55,20,35,20,45,75
+236,tyrogue,fighting,0.7,21.0,guts / steadfast,vital-spirit,35,35,35,35,35,35
+237,hitmontop,fighting,1.4,48.0,intimidate / technician,steadfast,50,95,95,35,110,70
+238,smoochum,ice / psychic,0.4,6.0,oblivious / forewarn,hydration,45,30,15,85,65,65
+239,elekid,electric,0.6,23.5,static,vital-spirit,45,63,37,65,55,95
+240,magby,fire,0.7,21.4,flame-body,vital-spirit,45,75,37,70,55,83
+241,miltank,normal,1.2,75.5,thick-fat / scrappy,sap-sipper,95,80,105,40,70,100
+242,blissey,normal,1.5,46.8,natural-cure / serene-grace,healer,255,10,10,75,135,55
+243,raikou,electric,1.9,178.0,pressure,inner-focus,90,85,75,115,100,115
+244,entei,fire,2.1,198.0,pressure,inner-focus,115,115,85,90,75,100
+245,suicune,water,2.0,187.0,pressure,inner-focus,100,75,115,90,115,85
+246,larvitar,rock / ground,0.6,72.0,guts,sand-veil,50,64,50,45,50,41
+247,pupitar,rock / ground,1.2,152.0,shed-skin,,70,84,70,65,70,51
+248,tyranitar,rock / dark,2.0,202.0,sand-stream,unnerve,100,134,110,95,100,61
+248,tyranitar-mega,rock / dark,2.5,255.0,sand-stream,,100,164,150,95,120,71
+249,lugia,psychic / flying,5.2,216.0,pressure,multiscale,106,90,130,90,154,110
+250,ho-oh,fire / flying,3.8,199.0,pressure,regenerator,106,130,90,110,154,90
+251,celebi,psychic / grass,0.6,5.0,natural-cure,,100,100,100,100,100,100
+252,treecko,grass,0.5,5.0,overgrow,unburden,40,45,35,65,55,70
+253,grovyle,grass,0.9,21.6,overgrow,unburden,50,65,45,85,65,95
+254,sceptile,grass,1.7,52.2,overgrow,unburden,70,85,65,105,85,120
+254,sceptile-mega,grass / dragon,1.9,55.2,lightning-rod,,70,110,75,145,85,145
+255,torchic,fire,0.4,2.5,blaze,speed-boost,45,60,40,70,50,45
+256,combusken,fire / fighting,0.9,19.5,blaze,speed-boost,60,85,60,85,60,55
+257,blaziken,fire / fighting,1.9,52.0,blaze,speed-boost,80,120,70,110,70,80
+257,blaziken-mega,fire / fighting,1.9,52.0,speed-boost,,80,160,80,130,80,100
+258,mudkip,water,0.4,7.6,torrent,damp,50,70,50,50,50,40
+259,marshtomp,water / ground,0.7,28.0,torrent,damp,70,85,70,60,70,50
+260,swampert,water / ground,1.5,81.9,torrent,damp,100,110,90,85,90,60
+260,swampert-mega,water / ground,1.9,102.0,swift-swim,,100,150,110,95,110,70
+261,poochyena,dark,0.5,13.6,run-away / quick-feet,rattled,35,55,35,30,30,35
+262,mightyena,dark,1.0,37.0,intimidate / quick-feet,moxie,70,90,70,60,60,70
+263,zigzagoon,normal,0.4,17.5,pickup / gluttony,quick-feet,38,30,41,30,41,60
+263,zigzagoon-galar,dark / normal,0.4,17.5,pickup / gluttony,quick-feet,38,30,41,30,41,60
+264,linoone,normal,0.5,32.5,pickup / gluttony,quick-feet,78,70,61,50,61,100
+264,linoone-galar,dark / normal,0.5,32.5,pickup / gluttony,quick-feet,78,70,61,50,61,100
+265,wurmple,bug,0.3,3.6,shield-dust,run-away,45,45,35,20,30,20
+266,silcoon,bug,0.6,10.0,shed-skin,,50,35,55,25,25,15
+267,beautifly,bug / flying,1.0,28.4,swarm,rivalry,60,70,50,100,50,65
+268,cascoon,bug,0.7,11.5,shed-skin,,50,35,55,25,25,15
+269,dustox,bug / poison,1.2,31.6,shield-dust,compound-eyes,60,50,70,50,90,65
+270,lotad,water / grass,0.5,2.6,swift-swim / rain-dish,own-tempo,40,30,30,40,50,30
+271,lombre,water / grass,1.2,32.5,swift-swim / rain-dish,own-tempo,60,50,50,60,70,50
+272,ludicolo,water / grass,1.5,55.0,swift-swim / rain-dish,own-tempo,80,70,70,90,100,70
+273,seedot,grass,0.5,4.0,chlorophyll / early-bird,pickpocket,40,40,50,30,30,30
+274,nuzleaf,grass / dark,1.0,28.0,chlorophyll / early-bird,pickpocket,70,70,40,60,40,60
+275,shiftry,grass / dark,1.3,59.6,chlorophyll / wind-rider,pickpocket,90,100,60,90,60,80
+276,taillow,normal / flying,0.3,2.3,guts,scrappy,40,55,30,30,30,85
+277,swellow,normal / flying,0.7,19.8,guts,scrappy,60,85,60,75,50,125
+278,wingull,water / flying,0.6,9.5,keen-eye / hydration,rain-dish,40,30,30,55,30,85
+279,pelipper,water / flying,1.2,28.0,keen-eye / drizzle,rain-dish,60,50,100,95,70,65
+280,ralts,psychic / fairy,0.4,6.6,synchronize / trace,telepathy,28,25,25,45,35,40
+281,kirlia,psychic / fairy,0.8,20.2,synchronize / trace,telepathy,38,35,35,65,55,50
+282,gardevoir,psychic / fairy,1.6,48.4,synchronize / trace,telepathy,68,65,65,125,115,80
+282,gardevoir-mega,psychic / fairy,1.6,48.4,pixilate,,68,85,65,165,135,100
+283,surskit,bug / water,0.5,1.7,swift-swim,rain-dish,40,30,32,50,52,65
+284,masquerain,bug / flying,0.8,3.6,intimidate,unnerve,70,60,62,100,82,80
+285,shroomish,grass,0.4,4.5,effect-spore / poison-heal,quick-feet,60,40,60,40,60,35
+286,breloom,grass / fighting,1.2,39.2,effect-spore / poison-heal,technician,60,130,80,60,60,70
+287,slakoth,normal,0.8,24.0,truant,,60,60,60,35,35,30
+288,vigoroth,normal,1.4,46.5,vital-spirit,,80,80,80,55,55,90
+289,slaking,normal,2.0,130.5,truant,,150,160,100,95,65,100
+290,nincada,bug / ground,0.5,5.5,compound-eyes,run-away,31,45,90,30,30,40
+291,ninjask,bug / flying,0.8,12.0,speed-boost,infiltrator,61,90,45,50,50,160
+292,shedinja,bug / ghost,0.8,1.2,wonder-guard,,1,90,45,30,30,40
+293,whismur,normal,0.6,16.3,soundproof,rattled,64,51,23,51,23,28
+294,loudred,normal,1.0,40.5,soundproof,scrappy,84,71,43,71,43,48
+295,exploud,normal,1.5,84.0,soundproof,scrappy,104,91,63,91,73,68
+296,makuhita,fighting,1.0,86.4,thick-fat / guts,sheer-force,72,60,30,20,30,25
+297,hariyama,fighting,2.3,253.8,thick-fat / guts,sheer-force,144,120,60,40,60,50
+298,azurill,normal / fairy,0.2,2.0,thick-fat / huge-power,sap-sipper,50,20,40,20,40,20
+299,nosepass,rock,1.0,97.0,sturdy / magnet-pull,sand-force,30,45,135,45,90,30
+300,skitty,normal,0.6,11.0,cute-charm / normalize,wonder-skin,50,45,45,35,35,50
+301,delcatty,normal,1.1,32.6,cute-charm / normalize,wonder-skin,70,65,65,55,55,90
+302,sableye,dark / ghost,0.5,11.0,keen-eye / stall,prankster,50,75,75,65,65,50
+302,sableye-mega,dark / ghost,0.5,161.0,magic-bounce,,50,85,125,85,115,20
+303,mawile,steel / fairy,0.6,11.5,hyper-cutter / intimidate,sheer-force,50,85,85,55,55,50
+303,mawile-mega,steel / fairy,1.0,23.5,huge-power,,50,105,125,55,95,50
+304,aron,steel / rock,0.4,60.0,sturdy / rock-head,heavy-metal,50,70,100,40,40,30
+305,lairon,steel / rock,0.9,120.0,sturdy / rock-head,heavy-metal,60,90,140,50,50,40
+306,aggron,steel / rock,2.1,360.0,sturdy / rock-head,heavy-metal,70,110,180,60,60,50
+306,aggron-mega,steel,2.2,395.0,filter,,70,140,230,60,80,50
+307,meditite,fighting / psychic,0.6,11.2,pure-power,telepathy,30,40,55,40,55,60
+308,medicham,fighting / psychic,1.3,31.5,pure-power,telepathy,60,60,75,60,75,80
+308,medicham-mega,fighting / psychic,1.3,31.5,pure-power,,60,100,85,80,85,100
+309,electrike,electric,0.6,15.2,static / lightning-rod,minus,40,45,40,65,40,65
+310,manectric,electric,1.5,40.2,static / lightning-rod,minus,70,75,60,105,60,105
+310,manectric-mega,electric,1.8,44.0,intimidate,,70,75,80,135,80,135
+311,plusle,electric,0.4,4.2,plus,lightning-rod,60,50,40,85,75,95
+312,minun,electric,0.4,4.2,minus,volt-absorb,60,40,50,75,85,95
+313,volbeat,bug,0.7,17.7,illuminate / swarm,prankster,65,73,75,47,85,85
+314,illumise,bug,0.6,17.7,oblivious / tinted-lens,prankster,65,47,75,73,85,85
+315,roselia,grass / poison,0.3,2.0,natural-cure / poison-point,leaf-guard,50,60,45,100,80,65
+316,gulpin,poison,0.4,10.3,liquid-ooze / sticky-hold,gluttony,70,43,53,43,53,40
+317,swalot,poison,1.7,80.0,liquid-ooze / sticky-hold,gluttony,100,73,83,73,83,55
+318,carvanha,water / dark,0.8,20.8,rough-skin,speed-boost,45,90,20,65,20,65
+319,sharpedo,water / dark,1.8,88.8,rough-skin,speed-boost,70,120,40,95,40,95
+319,sharpedo-mega,water / dark,2.5,130.3,strong-jaw,,70,140,70,110,65,105
+320,wailmer,water,2.0,130.0,water-veil / oblivious,pressure,130,70,35,70,35,60
+321,wailord,water,14.5,398.0,water-veil / oblivious,pressure,170,90,45,90,45,60
+322,numel,fire / ground,0.7,24.0,oblivious / simple,own-tempo,60,60,40,65,45,35
+323,camerupt,fire / ground,1.9,220.0,magma-armor / solid-rock,anger-point,70,100,70,105,75,40
+323,camerupt-mega,fire / ground,2.5,320.5,sheer-force,,70,120,100,145,105,20
+324,torkoal,fire,0.5,80.4,white-smoke / drought,shell-armor,70,85,140,85,70,20
+325,spoink,psychic,0.7,30.6,thick-fat / own-tempo,gluttony,60,25,35,70,80,60
+326,grumpig,psychic,0.9,71.5,thick-fat / own-tempo,gluttony,80,45,65,90,110,80
+327,spinda,normal,1.1,5.0,own-tempo / tangled-feet,contrary,60,60,60,60,60,60
+328,trapinch,ground,0.7,15.0,hyper-cutter / arena-trap,sheer-force,45,100,45,45,45,10
+329,vibrava,ground / dragon,1.1,15.3,levitate,,50,70,50,50,50,70
+330,flygon,ground / dragon,2.0,82.0,levitate,,80,100,80,80,80,100
+331,cacnea,grass,0.4,51.3,sand-veil,water-absorb,50,85,40,85,40,35
+332,cacturne,grass / dark,1.3,77.4,sand-veil,water-absorb,70,115,60,115,60,55
+333,swablu,normal / flying,0.4,1.2,natural-cure,cloud-nine,45,40,60,40,75,50
+334,altaria,dragon / flying,1.1,20.6,natural-cure,cloud-nine,75,70,90,70,105,80
+334,altaria-mega,dragon / fairy,1.5,20.6,pixilate,,75,110,110,110,105,80
+335,zangoose,normal,1.3,40.3,immunity,toxic-boost,73,115,60,60,60,90
+336,seviper,poison,2.7,52.5,shed-skin,infiltrator,73,100,60,100,60,65
+337,lunatone,rock / psychic,1.0,168.0,levitate,,90,55,65,95,85,70
+338,solrock,rock / psychic,1.2,154.0,levitate,,90,95,85,55,65,70
+339,barboach,water / ground,0.4,1.9,oblivious / anticipation,hydration,50,48,43,46,41,60
+340,whiscash,water / ground,0.9,23.6,oblivious / anticipation,hydration,110,78,73,76,71,60
+341,corphish,water,0.6,11.5,hyper-cutter / shell-armor,adaptability,43,80,65,50,35,35
+342,crawdaunt,water / dark,1.1,32.8,hyper-cutter / shell-armor,adaptability,63,120,85,90,55,55
+343,baltoy,ground / psychic,0.5,21.5,levitate,,40,40,55,40,70,55
+344,claydol,ground / psychic,1.5,108.0,levitate,,60,70,105,70,120,75
+345,lileep,rock / grass,1.0,23.8,suction-cups,storm-drain,66,41,77,61,87,23
+346,cradily,rock / grass,1.5,60.4,suction-cups,storm-drain,86,81,97,81,107,43
+347,anorith,rock / bug,0.7,12.5,battle-armor,swift-swim,45,95,50,40,50,75
+348,armaldo,rock / bug,1.5,68.2,battle-armor,swift-swim,75,125,100,70,80,45
+349,feebas,water,0.6,7.4,swift-swim / oblivious,adaptability,20,15,20,10,55,80
+350,milotic,water,6.2,162.0,marvel-scale / competitive,cute-charm,95,60,79,100,125,81
+351,castform,normal,0.3,0.8,forecast,,70,70,70,70,70,70
+351,castform-sunny,fire,0.3,0.8,forecast,,70,70,70,70,70,70
+351,castform-rainy,water,0.3,0.8,forecast,,70,70,70,70,70,70
+351,castform-snowy,ice,0.3,0.8,forecast,,70,70,70,70,70,70
+352,kecleon,normal,1.0,22.0,color-change,protean,60,90,70,60,120,40
+353,shuppet,ghost,0.6,2.3,insomnia / frisk,cursed-body,44,75,35,63,33,45
+354,banette,ghost,1.1,12.5,insomnia / frisk,cursed-body,64,115,65,83,63,65
+354,banette-mega,ghost,1.2,13.0,prankster,,64,165,75,93,83,75
+355,duskull,ghost,0.8,15.0,levitate,frisk,20,40,90,30,90,25
+356,dusclops,ghost,1.6,30.6,pressure,frisk,40,70,130,60,130,25
+357,tropius,grass / flying,2.0,100.0,chlorophyll / solar-power,harvest,99,68,83,72,87,51
+358,chimecho,psychic,0.6,1.0,levitate,,75,50,80,95,90,65
+359,absol,dark,1.2,47.0,pressure / super-luck,justified,65,130,60,75,60,75
+359,absol-mega,dark,1.2,49.0,magic-bounce,,65,150,60,115,60,115
+360,wynaut,psychic,0.6,14.0,shadow-tag,telepathy,95,23,48,23,48,23
+361,snorunt,ice,0.7,16.8,inner-focus / ice-body,moody,50,50,50,50,50,50
+362,glalie,ice,1.5,256.5,inner-focus / ice-body,moody,80,80,80,80,80,80
+362,glalie-mega,ice,2.1,350.2,refrigerate,,80,120,80,120,80,100
+363,spheal,ice / water,0.8,39.5,thick-fat / ice-body,oblivious,70,40,50,55,50,25
+364,sealeo,ice / water,1.1,87.6,thick-fat / ice-body,oblivious,90,60,70,75,70,45
+365,walrein,ice / water,1.4,150.6,thick-fat / ice-body,oblivious,110,80,90,95,90,65
+366,clamperl,water,0.4,52.5,shell-armor,rattled,35,64,85,74,55,32
+367,huntail,water,1.7,27.0,swift-swim,water-veil,55,104,105,94,75,52
+368,gorebyss,water,1.8,22.6,swift-swim,hydration,55,84,105,114,75,52
+369,relicanth,water / rock,1.0,23.4,swift-swim / rock-head,sturdy,100,90,130,45,65,55
+370,luvdisc,water,0.6,8.7,swift-swim,hydration,43,30,55,40,65,97
+371,bagon,dragon,0.6,42.1,rock-head,sheer-force,45,75,60,40,30,50
+372,shelgon,dragon,1.1,110.5,rock-head,overcoat,65,95,100,60,50,50
+373,salamence,dragon / flying,1.5,102.6,intimidate,moxie,95,135,80,110,80,100
+373,salamence-mega,dragon / flying,1.8,112.6,aerilate,,95,145,130,120,90,120
+374,beldum,steel / psychic,0.6,95.2,clear-body,light-metal,40,55,80,35,60,30
+375,metang,steel / psychic,1.2,202.5,clear-body,light-metal,60,75,100,55,80,50
+376,metagross,steel / psychic,1.6,550.0,clear-body,light-metal,80,135,130,95,90,70
+376,metagross-mega,steel / psychic,2.5,942.9,tough-claws,,80,145,150,105,110,110
+377,regirock,rock,1.7,230.0,clear-body,sturdy,80,100,200,50,100,50
+378,regice,ice,1.8,175.0,clear-body,ice-body,80,50,100,100,200,50
+379,registeel,steel,1.9,205.0,clear-body,light-metal,80,75,150,75,150,50
+380,latias,dragon / psychic,1.4,40.0,levitate,,80,80,90,110,130,110
+380,latias-mega,dragon / psychic,1.8,52.0,levitate,,80,100,120,140,150,110
+381,latios,dragon / psychic,2.0,60.0,levitate,,80,90,80,130,110,110
+381,latios-mega,dragon / psychic,2.3,70.0,levitate,,80,130,100,160,120,110
+382,kyogre,water,4.5,352.0,drizzle,,100,100,90,150,140,90
+382,kyogre-primal,water,9.8,430.0,primordial-sea,,100,150,90,180,160,90
+383,groudon,ground,3.5,950.0,drought,,100,150,140,100,90,90
+383,groudon-primal,ground / fire,5.0,999.7,desolate-land,,100,180,160,150,90,90
+384,rayquaza,dragon / flying,7.0,206.5,air-lock,,105,150,90,150,90,95
+384,rayquaza-mega,dragon / flying,10.8,392.0,delta-stream,,105,180,100,180,100,115
+385,jirachi,steel / psychic,0.3,1.1,serene-grace,,100,100,100,100,100,100
+386,deoxys-normal,psychic,1.7,60.8,pressure,,50,150,50,150,50,150
+387,turtwig,grass,0.4,10.2,overgrow,shell-armor,55,68,64,45,55,31
+388,grotle,grass,1.1,97.0,overgrow,shell-armor,75,89,85,55,65,36
+389,torterra,grass / ground,2.2,310.0,overgrow,shell-armor,95,109,105,75,85,56
+390,chimchar,fire,0.5,6.2,blaze,iron-fist,44,58,44,58,44,61
+391,monferno,fire / fighting,0.9,22.0,blaze,iron-fist,64,78,52,78,52,81
+392,infernape,fire / fighting,1.2,55.0,blaze,iron-fist,76,104,71,104,71,108
+393,piplup,water,0.4,5.2,torrent,competitive,53,51,53,61,56,40
+394,prinplup,water,0.8,23.0,torrent,competitive,64,66,68,81,76,50
+395,empoleon,water / steel,1.7,84.5,torrent,competitive,84,86,88,111,101,60
+396,starly,normal / flying,0.3,2.0,keen-eye,reckless,40,55,30,30,30,60
+397,staravia,normal / flying,0.6,15.5,intimidate,reckless,55,75,50,40,40,80
+398,staraptor,normal / flying,1.2,24.9,intimidate,reckless,85,120,70,50,60,100
+399,bidoof,normal,0.5,20.0,simple / unaware,moody,59,45,40,35,40,31
+400,bibarel,normal / water,1.0,31.5,simple / unaware,moody,79,85,60,55,60,71
+401,kricketot,bug,0.3,2.2,shed-skin,run-away,37,25,41,25,41,25
+402,kricketune,bug,1.0,25.5,swarm,technician,77,85,51,55,51,65
+403,shinx,electric,0.5,9.5,rivalry / intimidate,guts,45,65,34,40,34,45
+404,luxio,electric,0.9,30.5,rivalry / intimidate,guts,60,85,49,60,49,60
+405,luxray,electric,1.4,42.0,rivalry / intimidate,guts,80,120,79,95,79,70
+406,budew,grass / poison,0.2,1.2,natural-cure / poison-point,leaf-guard,40,30,35,50,70,55
+407,roserade,grass / poison,0.9,14.5,natural-cure / poison-point,technician,60,70,65,125,105,90
+408,cranidos,rock,0.9,31.5,mold-breaker,sheer-force,67,125,40,30,30,58
+409,rampardos,rock,1.6,102.5,mold-breaker,sheer-force,97,165,60,65,50,58
+410,shieldon,rock / steel,0.5,57.0,sturdy,soundproof,30,42,118,42,88,30
+411,bastiodon,rock / steel,1.3,149.5,sturdy,soundproof,60,52,168,47,138,30
+412,burmy,bug,0.2,3.4,shed-skin,overcoat,40,29,45,29,45,36
+413,wormadam-plant,bug / grass,0.5,6.5,anticipation,overcoat,60,59,85,79,105,36
+414,mothim,bug / flying,0.9,23.3,swarm,tinted-lens,70,94,50,94,50,66
+415,combee,bug / flying,0.3,5.5,honey-gather,hustle,30,30,42,30,42,70
+416,vespiquen,bug / flying,1.2,38.5,pressure,unnerve,70,80,102,80,102,40
+417,pachirisu,electric,0.4,3.9,run-away / pickup,volt-absorb,60,45,70,45,90,95
+418,buizel,water,0.7,29.5,swift-swim,water-veil,55,65,35,60,30,85
+419,floatzel,water,1.1,33.5,swift-swim,water-veil,85,105,55,85,50,115
+420,cherubi,grass,0.4,3.3,chlorophyll,,45,35,45,62,53,35
+421,cherrim,grass,0.5,9.3,flower-gift,,70,60,70,87,78,85
+422,shellos,water,0.3,6.3,sticky-hold / storm-drain,sand-force,76,48,48,57,62,34
+423,gastrodon,water / ground,0.9,29.9,sticky-hold / storm-drain,sand-force,111,83,68,92,82,39
+424,ambipom,normal,1.2,20.3,technician / pickup,skill-link,75,100,66,60,66,115
+425,drifloon,ghost / flying,0.4,1.2,aftermath / unburden,flare-boost,90,50,34,60,44,70
+426,drifblim,ghost / flying,1.2,15.0,aftermath / unburden,flare-boost,150,80,44,90,54,80
+427,buneary,normal,0.4,5.5,run-away / klutz,limber,55,66,44,44,56,85
+428,lopunny,normal,1.2,33.3,cute-charm / klutz,limber,65,76,84,54,96,105
+428,lopunny-mega,normal / fighting,1.3,28.3,scrappy,,65,136,94,54,96,135
+429,mismagius,ghost,0.9,4.4,levitate,,60,60,60,105,105,105
+430,honchkrow,dark / flying,0.9,27.3,insomnia / super-luck,moxie,100,125,52,105,52,71
+431,glameow,normal,0.5,3.9,limber / own-tempo,keen-eye,49,55,42,42,37,85
+432,purugly,normal,1.0,43.8,thick-fat / own-tempo,defiant,71,82,64,64,59,112
+433,chingling,psychic,0.2,0.6,levitate,,45,30,50,65,50,45
+434,stunky,poison / dark,0.4,19.2,stench / aftermath,keen-eye,63,63,47,41,41,74
+435,skuntank,poison / dark,1.0,38.0,stench / aftermath,keen-eye,103,93,67,71,61,84
+436,bronzor,steel / psychic,0.5,60.5,levitate / heatproof,heavy-metal,57,24,86,24,86,23
+437,bronzong,steel / psychic,1.3,187.0,levitate / heatproof,heavy-metal,67,89,116,79,116,33
+438,bonsly,rock,0.5,15.0,sturdy / rock-head,rattled,50,80,95,10,45,10
+439,mime-jr,psychic / fairy,0.6,13.0,soundproof / filter,technician,20,25,45,70,90,60
+440,happiny,normal,0.6,24.4,natural-cure / serene-grace,friend-guard,100,5,5,15,65,30
+441,chatot,normal / flying,0.5,1.9,keen-eye / tangled-feet,big-pecks,76,65,45,92,42,91
+442,spiritomb,ghost / dark,1.0,108.0,pressure,infiltrator,50,92,108,92,108,35
+443,gible,dragon / ground,0.7,20.5,sand-veil,rough-skin,58,70,45,40,45,42
+444,gabite,dragon / ground,1.4,56.0,sand-veil,rough-skin,68,90,65,50,55,82
+445,garchomp,dragon / ground,1.9,95.0,sand-veil,rough-skin,108,130,95,80,85,102
+445,garchomp-mega,dragon / ground,1.9,95.0,sand-force,,108,170,115,120,95,92
+446,munchlax,normal,0.6,105.0,pickup / thick-fat,gluttony,135,85,40,40,85,5
+447,riolu,fighting,0.7,20.2,steadfast / inner-focus,prankster,40,70,40,35,40,60
+448,lucario,fighting / steel,1.2,54.0,steadfast / inner-focus,justified,70,110,70,115,70,90
+448,lucario-mega,fighting / steel,1.3,57.5,adaptability,,70,145,88,140,70,112
+449,hippopotas,ground,0.8,49.5,sand-stream,sand-force,68,72,78,38,42,32
+450,hippowdon,ground,2.0,300.0,sand-stream,sand-force,108,112,118,68,72,47
+451,skorupi,poison / bug,0.8,12.0,battle-armor / sniper,keen-eye,40,50,90,30,55,65
+452,drapion,poison / dark,1.3,61.5,battle-armor / sniper,keen-eye,70,90,110,60,75,95
+453,croagunk,poison / fighting,0.7,23.0,anticipation / dry-skin,poison-touch,48,61,40,61,40,50
+454,toxicroak,poison / fighting,1.3,44.4,anticipation / dry-skin,poison-touch,83,106,65,86,65,85
+455,carnivine,grass,1.4,27.0,levitate,,74,100,72,90,72,46
+456,finneon,water,0.4,7.0,swift-swim / storm-drain,water-veil,49,49,56,49,61,66
+457,lumineon,water,1.2,24.0,swift-swim / storm-drain,water-veil,69,69,76,69,86,91
+458,mantyke,water / flying,1.0,65.0,swift-swim / water-absorb,water-veil,45,20,50,60,120,50
+459,snover,grass / ice,1.0,50.5,snow-warning,soundproof,60,62,50,62,60,40
+460,abomasnow,grass / ice,2.2,135.5,snow-warning,soundproof,90,92,75,92,85,60
+460,abomasnow-mega,grass / ice,2.7,185.0,snow-warning,,90,132,105,132,105,30
+461,weavile,dark / ice,1.1,34.0,pressure,pickpocket,70,120,65,45,85,125
+462,magnezone,electric / steel,1.2,180.0,magnet-pull / sturdy,analytic,70,70,115,130,90,60
+463,lickilicky,normal,1.7,140.0,own-tempo / oblivious,cloud-nine,110,85,95,80,95,50
+464,rhyperior,ground / rock,2.4,282.8,lightning-rod / solid-rock,reckless,115,140,130,55,55,40
+465,tangrowth,grass,2.0,128.6,chlorophyll / leaf-guard,regenerator,100,100,125,110,50,50
+466,electivire,electric,1.8,138.6,motor-drive,vital-spirit,75,123,67,95,85,95
+467,magmortar,fire,1.6,68.0,flame-body,vital-spirit,75,95,67,125,95,83
+468,togekiss,fairy / flying,1.5,38.0,hustle / serene-grace,super-luck,85,50,95,120,115,80
+469,yanmega,bug / flying,1.9,51.5,speed-boost / tinted-lens,frisk,86,76,86,116,56,95
+470,leafeon,grass,1.0,25.5,leaf-guard,chlorophyll,65,110,130,60,65,95
+471,glaceon,ice,0.8,25.9,snow-cloak,ice-body,65,60,110,130,95,65
+472,gliscor,ground / flying,2.0,42.5,hyper-cutter / sand-veil,poison-heal,75,95,125,45,75,95
+473,mamoswine,ice / ground,2.5,291.0,oblivious / snow-cloak,thick-fat,110,130,80,70,60,80
+474,porygon-z,normal,0.9,34.0,adaptability / download,analytic,85,80,70,135,75,90
+475,gallade,psychic / fighting,1.6,52.0,steadfast / sharpness,justified,68,125,65,65,115,80
+475,gallade-mega,psychic / fighting,1.6,56.4,inner-focus,,68,165,95,65,115,110
+476,probopass,rock / steel,1.4,340.0,sturdy / magnet-pull,sand-force,60,55,145,75,150,40
+477,dusknoir,ghost,2.2,106.6,pressure,frisk,45,100,135,65,135,45
+478,froslass,ice / ghost,1.3,26.6,snow-cloak,cursed-body,70,80,70,80,70,110
+479,rotom,electric / ghost,0.3,0.3,levitate,,50,50,77,95,77,91
+479,rotom-heat,electric / fire,0.3,0.3,levitate,,50,65,107,105,107,86
+479,rotom-wash,electric / water,0.3,0.3,levitate,,50,65,107,105,107,86
+479,rotom-frost,electric / ice,0.3,0.3,levitate,,50,65,107,105,107,86
+479,rotom-fan,electric / flying,0.3,0.3,levitate,,50,65,107,105,107,86
+479,rotom-mow,electric / grass,0.3,0.3,levitate,,50,65,107,105,107,86
+480,uxie,psychic,0.3,0.3,levitate,,75,75,130,75,130,95
+481,mesprit,psychic,0.3,0.3,levitate,,80,105,105,105,105,80
+482,azelf,psychic,0.3,0.3,levitate,,75,125,70,125,70,115
+483,dialga,steel / dragon,5.4,683.0,pressure,telepathy,100,120,120,150,100,90
+483,dialga-origin,steel / dragon,7.0,848.7,pressure,telepathy,100,100,120,150,120,90
+484,palkia,water / dragon,4.2,336.0,pressure,telepathy,90,120,100,150,120,100
+484,palkia-origin,water / dragon,6.3,659.0,pressure,telepathy,90,100,100,150,120,120
+485,heatran,fire / steel,1.7,430.0,flash-fire,flame-body,91,90,106,130,106,77
+486,regigigas,normal,3.7,420.0,slow-start,,110,160,110,80,110,100
+487,giratina-altered,ghost / dragon,4.5,750.0,pressure,telepathy,150,100,120,100,120,90
+488,cresselia,psychic,1.5,85.6,levitate,,120,70,110,75,120,85
+489,phione,water,0.4,3.1,hydration,,80,80,80,80,80,80
+490,manaphy,water,0.3,1.4,hydration,,100,100,100,100,100,100
+491,darkrai,dark,1.5,50.5,bad-dreams,,70,90,90,135,90,125
+492,shaymin-land,grass,0.2,2.1,natural-cure,,100,100,100,100,100,100
+493,arceus,normal,3.2,320.0,multitype,,120,120,120,120,120,120
+494,victini,psychic / fire,0.4,4.0,victory-star,,100,100,100,100,100,100
+495,snivy,grass,0.6,8.1,overgrow,contrary,45,45,55,45,55,63
+496,servine,grass,0.8,16.0,overgrow,contrary,60,60,75,60,75,83
+497,serperior,grass,3.3,63.0,overgrow,contrary,75,75,95,75,95,113
+498,tepig,fire,0.5,9.9,blaze,thick-fat,65,63,45,45,45,45
+499,pignite,fire / fighting,1.0,55.5,blaze,thick-fat,90,93,55,70,55,55
+500,emboar,fire / fighting,1.6,150.0,blaze,reckless,110,123,65,100,65,65
+501,oshawott,water,0.5,5.9,torrent,shell-armor,55,55,45,63,45,45
+502,dewott,water,0.8,24.5,torrent,shell-armor,75,75,60,83,60,60
+503,samurott,water,1.5,94.6,torrent,shell-armor,95,100,85,108,70,70
+503,samurott-hisui,water / dark,1.5,58.2,torrent,sharpness,90,108,80,100,65,85
+504,patrat,normal,0.5,11.6,run-away / keen-eye,analytic,45,55,39,35,39,42
+505,watchog,normal,1.1,27.0,illuminate / keen-eye,analytic,60,85,69,60,69,77
+506,lillipup,normal,0.4,4.1,vital-spirit / pickup,run-away,45,60,45,25,45,55
+507,herdier,normal,0.9,14.7,intimidate / sand-rush,scrappy,65,80,65,35,65,60
+508,stoutland,normal,1.2,61.0,intimidate / sand-rush,scrappy,85,110,90,45,90,80
+509,purrloin,dark,0.4,10.1,limber / unburden,prankster,41,50,37,50,37,66
+510,liepard,dark,1.1,37.5,limber / unburden,prankster,64,88,50,88,50,106
+511,pansage,grass,0.6,10.5,gluttony,overgrow,50,53,48,53,48,64
+512,simisage,grass,1.1,30.5,gluttony,overgrow,75,98,63,98,63,101
+513,pansear,fire,0.6,11.0,gluttony,blaze,50,53,48,53,48,64
+514,simisear,fire,1.0,28.0,gluttony,blaze,75,98,63,98,63,101
+515,panpour,water,0.6,13.5,gluttony,torrent,50,53,48,53,48,64
+516,simipour,water,1.0,29.0,gluttony,torrent,75,98,63,98,63,101
+517,munna,psychic,0.6,23.3,forewarn / synchronize,telepathy,76,25,45,67,55,24
+518,musharna,psychic,1.1,60.5,forewarn / synchronize,telepathy,116,55,85,107,95,29
+519,pidove,normal / flying,0.3,2.1,big-pecks / super-luck,rivalry,50,55,50,36,30,43
+520,tranquill,normal / flying,0.6,15.0,big-pecks / super-luck,rivalry,62,77,62,50,42,65
+521,unfezant,normal / flying,1.2,29.0,big-pecks / super-luck,rivalry,80,115,80,65,55,93
+522,blitzle,electric,0.8,29.8,lightning-rod / motor-drive,sap-sipper,45,60,32,50,32,76
+523,zebstrika,electric,1.6,79.5,lightning-rod / motor-drive,sap-sipper,75,100,63,80,63,116
+524,roggenrola,rock,0.4,18.0,sturdy / weak-armor,sand-force,55,75,85,25,25,15
+525,boldore,rock,0.9,102.0,sturdy / weak-armor,sand-force,70,105,105,50,40,20
+526,gigalith,rock,1.7,260.0,sturdy / sand-stream,sand-force,85,135,130,60,80,25
+527,woobat,psychic / flying,0.4,2.1,unaware / klutz,simple,65,45,43,55,43,72
+528,swoobat,psychic / flying,0.9,10.5,unaware / klutz,simple,67,57,55,77,55,114
+529,drilbur,ground,0.3,8.5,sand-rush / sand-force,mold-breaker,60,85,40,30,45,68
+530,excadrill,ground / steel,0.7,40.4,sand-rush / sand-force,mold-breaker,110,135,60,50,65,88
+531,audino,normal,1.1,31.0,healer / regenerator,klutz,103,60,86,60,86,50
+531,audino-mega,normal / fairy,1.5,32.0,healer,,103,60,126,80,126,50
+532,timburr,fighting,0.6,12.5,guts / sheer-force,iron-fist,75,80,55,25,35,35
+533,gurdurr,fighting,1.2,40.0,guts / sheer-force,iron-fist,85,105,85,40,50,40
+534,conkeldurr,fighting,1.4,87.0,guts / sheer-force,iron-fist,105,140,95,55,65,45
+535,tympole,water,0.5,4.5,swift-swim / hydration,water-absorb,50,50,40,50,40,64
+536,palpitoad,water / ground,0.8,17.0,swift-swim / hydration,water-absorb,75,65,55,65,55,69
+537,seismitoad,water / ground,1.5,62.0,swift-swim / poison-touch,water-absorb,105,95,75,85,75,74
+538,throh,fighting,1.3,55.5,guts / inner-focus,mold-breaker,120,100,85,30,85,45
+539,sawk,fighting,1.4,51.0,sturdy / inner-focus,mold-breaker,75,125,75,30,75,85
+540,sewaddle,bug / grass,0.3,2.5,swarm / chlorophyll,overcoat,45,53,70,40,60,42
+541,swadloon,bug / grass,0.5,7.3,leaf-guard / chlorophyll,overcoat,55,63,90,50,80,42
+542,leavanny,bug / grass,1.2,20.5,swarm / chlorophyll,overcoat,75,103,80,70,80,92
+543,venipede,bug / poison,0.4,5.3,poison-point / swarm,speed-boost,30,45,59,30,39,57
+544,whirlipede,bug / poison,1.2,58.5,poison-point / swarm,speed-boost,40,55,99,40,79,47
+545,scolipede,bug / poison,2.5,200.5,poison-point / swarm,speed-boost,60,100,89,55,69,112
+546,cottonee,grass / fairy,0.3,0.6,prankster / infiltrator,chlorophyll,40,27,60,37,50,66
+547,whimsicott,grass / fairy,0.7,6.6,prankster / infiltrator,chlorophyll,60,67,85,77,75,116
+548,petilil,grass,0.5,6.6,chlorophyll / own-tempo,leaf-guard,45,35,50,70,50,30
+549,lilligant,grass,1.1,16.3,chlorophyll / own-tempo,leaf-guard,70,60,75,110,75,90
+549,lilligant-hisui,grass / fighting,1.2,19.2,chlorophyll / hustle,leaf-guard,70,105,75,50,75,105
+550,basculin-red-striped,water,1.0,18.0,reckless / adaptability,mold-breaker,70,92,65,80,55,98
+551,sandile,ground / dark,0.7,15.2,intimidate / moxie,anger-point,50,72,35,35,35,65
+552,krokorok,ground / dark,1.0,33.4,intimidate / moxie,anger-point,60,82,45,45,45,74
+553,krookodile,ground / dark,1.5,96.3,intimidate / moxie,anger-point,95,117,80,65,70,92
+554,darumaka,fire,0.6,37.5,hustle,inner-focus,70,90,45,15,45,50
+554,darumaka-galar,ice,0.7,40.0,hustle,inner-focus,70,90,45,15,45,50
+555,darmanitan-standard,fire,1.3,92.9,sheer-force,zen-mode,105,140,55,30,55,95
+556,maractus,grass,1.0,28.0,water-absorb / chlorophyll,storm-drain,75,86,67,106,67,60
+557,dwebble,bug / rock,0.3,14.5,sturdy / shell-armor,weak-armor,50,65,85,35,35,55
+558,crustle,bug / rock,1.4,200.0,sturdy / shell-armor,weak-armor,70,105,125,65,75,45
+559,scraggy,dark / fighting,0.6,11.8,shed-skin / moxie,intimidate,50,75,70,35,70,48
+560,scrafty,dark / fighting,1.1,30.0,shed-skin / moxie,intimidate,65,90,115,45,115,58
+561,sigilyph,psychic / flying,1.4,14.0,wonder-skin / magic-guard,tinted-lens,72,58,80,103,80,97
+562,yamask,ghost,0.5,1.5,mummy,,38,30,85,55,65,30
+562,yamask-galar,ground / ghost,0.5,1.5,wandering-spirit,,38,55,85,30,65,30
+563,cofagrigus,ghost,1.7,76.5,mummy,,58,50,145,95,105,30
+564,tirtouga,water / rock,0.7,16.5,solid-rock / sturdy,swift-swim,54,78,103,53,45,22
+565,carracosta,water / rock,1.2,81.0,solid-rock / sturdy,swift-swim,74,108,133,83,65,32
+566,archen,rock / flying,0.5,9.5,defeatist,,55,112,45,74,45,70
+567,archeops,rock / flying,1.4,32.0,defeatist,,75,140,65,112,65,110
+568,trubbish,poison,0.6,31.0,stench / sticky-hold,aftermath,50,50,62,40,62,65
+569,garbodor,poison,1.9,107.3,stench / weak-armor,aftermath,80,95,82,60,82,75
+569,garbodor-gmax,poison,21.0,1000.0,stench / weak-armor,aftermath,80,95,82,60,82,75
+570,zorua,dark,0.7,12.5,illusion,,40,65,40,80,40,65
+570,zorua-hisui,normal / ghost,0.7,12.5,illusion,,35,60,40,85,40,70
+571,zoroark,dark,1.6,81.1,illusion,,60,105,60,120,60,105
+571,zoroark-hisui,normal / ghost,1.6,73.0,illusion,,55,100,60,125,60,110
+572,minccino,normal,0.4,5.8,cute-charm / technician,skill-link,55,50,40,40,40,75
+573,cinccino,normal,0.5,7.5,cute-charm / technician,skill-link,75,95,60,65,60,115
+574,gothita,psychic,0.4,5.8,frisk / competitive,shadow-tag,45,30,50,55,65,45
+575,gothorita,psychic,0.7,18.0,frisk / competitive,shadow-tag,60,45,70,75,85,55
+576,gothitelle,psychic,1.5,44.0,frisk / competitive,shadow-tag,70,55,95,95,110,65
+577,solosis,psychic,0.3,1.0,overcoat / magic-guard,regenerator,45,30,40,105,50,20
+578,duosion,psychic,0.6,8.0,overcoat / magic-guard,regenerator,65,40,50,125,60,30
+579,reuniclus,psychic,1.0,20.1,overcoat / magic-guard,regenerator,110,65,75,125,85,30
+580,ducklett,water / flying,0.5,5.5,keen-eye / big-pecks,hydration,62,44,50,44,50,55
+581,swanna,water / flying,1.3,24.2,keen-eye / big-pecks,hydration,75,87,63,87,63,98
+582,vanillite,ice,0.4,5.7,ice-body / snow-cloak,weak-armor,36,50,50,65,60,44
+583,vanillish,ice,1.1,41.0,ice-body / snow-cloak,weak-armor,51,65,65,80,75,59
+584,vanilluxe,ice,1.3,57.5,ice-body / snow-warning,weak-armor,71,95,85,110,95,79
+585,deerling,normal / grass,0.6,19.5,chlorophyll / sap-sipper,serene-grace,60,60,50,40,50,75
+586,sawsbuck,normal / grass,1.9,92.5,chlorophyll / sap-sipper,serene-grace,80,100,70,60,70,95
+587,emolga,electric / flying,0.4,5.0,static,motor-drive,55,75,60,75,60,103
+588,karrablast,bug,0.5,5.9,swarm / shed-skin,no-guard,50,75,45,40,45,60
+589,escavalier,bug / steel,1.0,33.0,swarm / shell-armor,overcoat,70,135,105,60,105,20
+590,foongus,grass / poison,0.2,1.0,effect-spore,regenerator,69,55,45,55,55,15
+591,amoonguss,grass / poison,0.6,10.5,effect-spore,regenerator,114,85,70,85,80,30
+592,frillish,water / ghost,1.2,33.0,water-absorb / cursed-body,damp,55,40,50,65,85,40
+592,frillish-female,,1.2,33.0,,,0,0,0,0,0,0
+593,jellicent,water / ghost,2.2,135.0,water-absorb / cursed-body,damp,100,60,70,85,105,60
+593,jellicent-female,,2.2,135.0,,,0,0,0,0,0,0
+594,alomomola,water,1.2,31.6,healer / hydration,regenerator,165,75,80,40,45,65
+595,joltik,bug / electric,0.1,0.6,compound-eyes / unnerve,swarm,50,47,50,57,50,65
+596,galvantula,bug / electric,0.8,14.3,compound-eyes / unnerve,swarm,70,77,60,97,60,108
+597,ferroseed,grass / steel,0.6,18.8,iron-barbs,,44,50,91,24,86,10
+598,ferrothorn,grass / steel,1.0,110.0,iron-barbs,anticipation,74,94,131,54,116,20
+599,klink,steel,0.3,21.0,plus / minus,clear-body,40,55,70,45,60,30
+600,klang,steel,0.6,51.0,plus / minus,clear-body,60,80,95,70,85,50
