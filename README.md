@@ -1,59 +1,96 @@
-# 🎮 Pokémon Popularity Analysis  
+# 🎮 Pokémon Popularity Analysis 📊
 
 ![Pokémon Banner](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)  
 
-## 📌 Descripción  
-Este proyecto analiza las características de los Pokémon y predice cuáles serán los más populares en la comunidad y en el ámbito competitivo. Utiliza técnicas de análisis de datos y machine learning para identificar patrones en la popularidad de los Pokémon según sus estadísticas, tipo y generación.  
+### 🔍 Análisis de la Popularidad Competitiva de los Pokémon en Smogon y VGC
 
-## 🎯 Objetivos  
-✅ Analizar las características más relevantes de los Pokémon populares.  
-✅ Identificar patrones de popularidad según tipo, generación y stats.  
-✅ Predecir qué Pokémon podrían ser más usados en futuras competiciones.  
+Este proyecto tiene como objetivo analizar la popularidad de los Pokémon en el competitivo, basándose en datos de **Smogon Showdown** y torneos oficiales de **VGC Worlds** de los últimos años. Se han recopilado, limpiado y analizado datos de múltiples fuentes para generar un dataset integral y crear visualizaciones que ayuden a entender tendencias en el metajuego.
 
-## 📂 Datos  
-Los datos provienen de:  
-- [Kaggle - Pokémon Dataset](https://www.kaggle.com/datasets/abcsds/pokemon) 📂  
-- [PokéAPI](https://pokeapi.co/) (Opcional, para datos en tiempo real) 🌐  
-- [Smogon](https://www.smogon.com/) (Opcional, para datos de uso competitivo) 🎮  
+## 🚀 Objetivos del Proyecto
 
-## 🛠 Tecnologías Utilizadas  
-🔹 **Python** – Lenguaje principal  
-🔹 **Pandas, NumPy** – Manipulación y análisis de datos  
-🔹 **Matplotlib, Seaborn** – Visualización de datos  
-🔹 **Scikit-learn** – Modelos de machine learning  
-🔹 **Requests** – Obtención de datos desde APIs (Opcional)  
+✔ **Obtener datos históricos** de Smogon Showdown y torneos oficiales de VGC Worlds.  
+✔ **Comparar la popularidad de los Pokémon** entre ambos formatos.  
+✔ **Visualizar tendencias** en el uso de Pokémon competitivos a lo largo de los últimos años.  
+✔ **Explorar diferencias en popularidad** según categorías como legendarios, tipos y generación.  
 
-## 📊 Análisis y Modelos  
-1️⃣ **Análisis Exploratorio de Datos (EDA)**  
-   - Visualización de distribuciones de estadísticas.  
-   - Comparación de Pokémon populares vs. no populares.  
 
-2️⃣ **Modelado Predictivo**  
-   - Aplicación de modelos de clasificación (Random Forest, XGBoost).  
-   - Evaluación del modelo y ajuste de hiperparámetros.  
+## 📂 Estructura del Repositorio
 
-## 🚀 Instalación y Uso  
-### **1️⃣ Clonar el repositorio**  
-```bash
-git clone https://github.com/tu-usuario/pokemon-popularity-analysis.git
-cd pokemon-popularity-analysis
-```
 
-## 📄 Estructura del Proyecto
-📂 pokemon_popularity_analysis/
 
-┣ 📂 data/                <- Archivos CSV con los datos.
 
-┣ 📂 notebooks/           <- Jupyter notebooks con análisis y modelos.
+## 📊 Dataset y Fuentes de Datos
 
-┣ 📂 src/                 <- Scripts Python para procesamiento y predicción.
+Para realizar este análisis, se obtuvieron datos de las siguientes fuentes:
 
-┣ 📄 requirements.txt     <- Librerías necesarias para ejecutar el código.
+- **Smogon Showdown** (Datos de uso en VGC en formato .txt)
+- **VGC World Championships** (2022, 2023 y 2024)
+- **PokeAPI** (Características y atributos de los Pokémon)
+  
+El dataset final se encuentra en `data/pokemon_dataset_full_merged.csv`, donde se han integrado los datos de Smogon y VGC para facilitar su análisis.
 
-┣ 📄 README.md            <- Explicación del proyecto.
+## 📈 Análisis Exploratorio y Visualizaciones
 
-## 📩 Contacto
+Durante el análisis de los datos, se generaron diversas visualizaciones clave:
 
-👨‍💻 Desarrollado por: Daniel Sánchez McCambridge
+### 🏆 **Top 10 Pokémon más usados en Smogon y VGC**
+📊 Histograma que muestra los Pokémon más frecuentes en cada formato.
 
-📧 Email: danielsm.dev@gmail.com
+### 📌 **Comparación Smogon vs. VGC (Scatter Plot)**
+🎯 Gráfico de dispersión que muestra la relación entre el uso en Smogon y en VGC.
+
+### 🔥 **Comparación de los Pokémon más dominantes en cada formato**
+📊 Histograma que destaca a los Pokémon más utilizados en cada metajuego.
+
+### 📉 **Relación entre uso en Smogon y VGC Worlds**
+🔍 Gráfico de dispersión que revela qué Pokémon tienen mayor presencia en ambos formatos.
+
+### ⚔️ **Comparación de Pokémon con mayores diferencias de uso entre Smogon y VGC**
+📊 Histograma que muestra qué Pokémon son populares en un formato pero no en el otro.
+
+### 🏅 **Comparación del uso de Pokémon legendarios vs no legendarios**
+🥇 Gráfico de pastel que divide el uso entre legendarios y Pokémon estándar.
+
+### 🌿 **Comparación del uso de Pokémon por tipo (Smogon vs VGC Worlds)**
+🔬 Visualización que muestra la diferencia de uso entre los diferentes tipos de Pokémon en ambos formatos.
+
+## 🔧 Instalación y Uso
+
+Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
+
+1. **Clona el repositorio**
+
+   git clone https://github.com/danielsmdev/pokemon-popularity-analysis.git
+   cd pokemon-popularity-analysis
+
+2. **Instala las dependencias**
+   pip install -r requirements.txt
+
+3. **Ejecuta los notebooks Abre los archivos en notebooks/ y ejecuta los análisis en Jupyter Notebook.**
+
+## 🎯 Conclusiones
+
+✔ **Se han identificado patrones claros** en la popularidad de los Pokémon en ambos formatos.  
+✔ **El uso de Pokémon legendarios** es significativamente mayor en **VGC** que en **Smogon**.  
+✔ **Existen Pokémon con alto dominio en un formato pero baja presencia en otro**.  
+✔ **Se ha logrado construir un dataset unificado** que permite estudiar tendencias en el competitivo.  
+
+## 📜 Licencia
+
+Este proyecto está bajo la **Licencia MIT**. Puedes usarlo libremente con atribución. ⚖️  
+
+## 🤝 Contribuciones
+
+¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el análisis o quieres expandir el dataset, sigue estos pasos:
+
+1. **Haz un fork del proyecto** 🍴  
+2. **Crea una nueva rama**  
+   git checkout -b feature-nueva
+3. **Realiza tus cambios y haz commit**
+   git commit -m "Añadir nueva funcionalidad"
+4. **Haz push a tu fork**
+   git push origin feature-nueva
+5. **Abre un Pull Request 📩**
+
+## 📬 Contacto
+Si tienes preguntas o sugerencias, puedes contactar conmigo en GitHub
