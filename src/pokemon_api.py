@@ -2,6 +2,23 @@ import requests
 import pandas as pd
 import time
 
+def get_base_name(pokemon_name):
+    """Elimina progresivamente los sufijos después de '-' hasta encontrar un nombre válido en la API."""
+    parts = pokemon_name.split("-")
+    
+    while parts:
+        base_name = "-".join(parts)
+        url = f"https://pokeapi.co/api/v2/pokemon-species/{base_name.lower()}"
+        response = requests.get(url)
+
+        if response.status_code == 200:
+            return base_name  # ✅ Devolvemos el nombre en cuanto sea válido
+        
+        parts.pop()  # Eliminamos el último sufijo e intentamos de nuevo
+
+    return pokemon_name  # ❌ Si no se encontró ningún válido, devolvemos el original con advertencia
+
+
 def clean_pokemon_name(pokemon_name):
     """ Extrae el nombre base del Pokémon y su variante. """
     return pokemon_name.split("-", 1)[0], pokemon_name.split("-", 1)[1] if "-" in pokemon_name else None
@@ -17,22 +34,35 @@ def get_pokemon_names():
     return []
 
 # Obtener todas las formas de un Pokémon
+# 📌 Función para obtener todas las formas de un Pokémon, intentando con el nombre completo y luego con el base
 def get_all_forms(pokemon_name):
-    url = f"https://pokeapi.co/api/v2/pokemon-species/{pokemon_name}"
-    response = requests.get(url)
+    """
+    Intenta obtener todas las formas de un Pokémon.
+    - Primero intenta con el nombre original.
+    - Si falla, prueba eliminando sufijos hasta encontrar el nombre base válido.
+    """
+    url_full = f"https://pokeapi.co/api/v2/pokemon-species/{pokemon_name.lower()}"
+    response = requests.get(url_full)
 
     if response.status_code == 200:
         data = response.json()
-        if "varieties" in data:
+        varieties = [var["pokemon"]["name"] for var in data["varieties"]]
+        return varieties
+
+    # Si falla con el nombre completo, reducir progresivamente los sufijos
+    base_name = get_base_name(pokemon_name)
+
+    if base_name != pokemon_name:  # Solo intentar si el nombre cambió
+        url_base = f"https://pokeapi.co/api/v2/pokemon-species/{base_name.lower()}"
+        response = requests.get(url_base)
+
+        if response.status_code == 200:
+            data = response.json()
             varieties = [var["pokemon"]["name"] for var in data["varieties"]]
             return varieties
-        else:
-            print(f"⚠️ Advertencia: No se encontraron variedades para {pokemon_name}.")
-    else:
-        print(f"❌ Error al obtener formas de {pokemon_name} (Código: {response.status_code})")
-    
-    return [pokemon_name]  # Devuelve al menos el nombre base
 
+    print(f"⚠️ No se encontraron formas para {pokemon_name} ni {base_name}")
+    return [pokemon_name]
 
 # Obtener datos del Pokémon
 def get_pokemon_data(pokemon_name, base_id):
