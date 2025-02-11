@@ -61,12 +61,14 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 1. **Clona el repositorio**
 
    git clone https://github.com/danielsmdev/pokemon-popularity-analysis.git
+   
    cd pokemon-popularity-analysis
 
-2. **Instala las dependencias**
+3. **Instala las dependencias**
+4. 
    pip install -r requirements.txt
 
-3. **Ejecuta los notebooks Abre los archivos en notebooks/ y ejecuta los análisis en Jupyter Notebook.**
+5. **Ejecuta los notebooks Abre los archivos en notebooks/ y ejecuta los análisis en Jupyter Notebook.**
 
 ## 🎯 Conclusiones
 
@@ -83,14 +85,22 @@ Este proyecto está bajo la **Licencia MIT**. Puedes usarlo libremente con atrib
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar el análisis o quieres expandir el dataset, sigue estos pasos:
 
-1. **Haz un fork del proyecto** 🍴  
-2. **Crea una nueva rama**  
+1. **Haz un fork del proyecto** 🍴
+   
+2. **Crea una nueva rama**
+   
    git checkout -b feature-nueva
+   
 3. **Realiza tus cambios y haz commit**
+   
    git commit -m "Añadir nueva funcionalidad"
+   
 4. **Haz push a tu fork**
+   
    git push origin feature-nueva
+   
 5. **Abre un Pull Request 📩**
 
 ## 📬 Contacto
+
 Si tienes preguntas o sugerencias, puedes contactar conmigo en GitHub
