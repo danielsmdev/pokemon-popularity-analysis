@@ -64,11 +64,11 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
    
    cd pokemon-popularity-analysis
 
-3. **Instala las dependencias**
-4. 
+2. **Instala las dependencias**
+   
    pip install -r requirements.txt
 
-5. **Ejecuta los notebooks Abre los archivos en notebooks/ y ejecuta los análisis en Jupyter Notebook.**
+3. **Ejecuta los notebooks Abre los archivos en notebooks/ y ejecuta los análisis en Jupyter Notebook.**
 
 ## 🎯 Conclusiones
 
