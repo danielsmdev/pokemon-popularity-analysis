@@ -1,6 +1,6 @@
 # 🎮 Pokémon Popularity Analysis 📊
 
-![Pokémon Banner](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png)  
+![Pokémon Banner](https://github.com/danielsmdev/pokemon-popularity-analysis/blob/main/vgc.png)  
 
 ### 🔍 Análisis de la Popularidad Competitiva de los Pokémon en Smogon y VGC
 
